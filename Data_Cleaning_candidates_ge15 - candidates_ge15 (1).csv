@@ -1,0 +1,946 @@
+Name,Parliament,State,Ballot order,Name display,Age,Sex,Ethnicity,Party,Votes,Result,Result desc
+Rushdan Bin Rusmi,P.001 Padang Besar,Perlis,1,RUSHDAN BIN RUSMI,44,Male,Bumiputera,PERIKATAN NASIONAL (PN),24267,1,Won
+Ko Chu Liang,P.001 Padang Besar,Perlis,2,KO CHU LIANG,72,Male,Chinese,PARTI WARISAN SABAH (WARISAN),244,0,Lost deposit
+Zahidi Bin Zainul Abidin,P.001 Padang Besar,Perlis,3,ZAHIDI BIN ZAINUL ABIDIN,61,Male,Bumiputera,BEBAS (BEBAS),1939,0,Lost deposit
+Zahida Binti Zarik Khan,P.001 Padang Besar,Perlis,4,ZAHIDA BINTI ZARIK KHAN,43,Female,Bumiputera,BARISAN NASIONAL (BN),11753,0,Lost
+Mohamad Bin Saad @ Yahaya,P.001 Padang Besar,Perlis,5,KAPT (B) HJ MOHAMAD YAHAYA,58,Male,Bumiputera,PAKATAN HARAPAN (PH),7085,0,Lost
+Zakri Bin Hassan,P.002 Kangar,Perlis,1,CIKGU ZAKRI,57,Male,Bumiputera,PERIKATAN NASIONAL (PN),24562,1,Won
+Fathul Bari Bin Mat Jahya,P.002 Kangar,Perlis,2,DR FATHUL BARI,42,Male,Bumiputera,BARISAN NASIONAL (BN),15370,0,Lost
+Rohimi Bin Shapiee,P.002 Kangar,Perlis,3,PROF. DR. ROHIMI SHAPIEE,60,Male,Bumiputera,PARTI WARISAN SABAH (WARISAN),417,0,Lost deposit
+Noor Amin Bin Ahmad,P.002 Kangar,Perlis,4,AMIN AHMAD,40,Male,Bumiputera,PAKATAN HARAPAN (PH),15143,0,Lost
+Nur Sulaiman Bin Zolkapli,P.002 Kangar,Perlis,5,USTAZ NUR SULAIMAN,34,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),708,0,Lost deposit
+Fathin Amelina Binti Fazlie,P.003 Arau,Perlis,1,FATHIN AMELINA,27,Female,Bumiputera,PAKATAN HARAPAN (PH),7089,0,Lost
+Shahidan Bin Kassim,P.003 Arau,Perlis,2,SHAHIDAN BIN KASSIM,71,Male,Bumiputera,PERIKATAN NASIONAL (PN),31458,1,Won
+Rozabil @ Rozamujib Bin Abdul Rahman,P.003 Arau,Perlis,3,ROZABIL @ TOK BEN,50,Male,Bumiputera,BARISAN NASIONAL (BN),8242,0,Lost
+Abd Kadir Bin Sainudin,P.004 Langkawi,Kedah,1,DATO PADUKA ABD KADIR,43,Male,Bumiputera,BEBAS (BEBAS),89,0,Lost deposit
+Mohd Suhaimi Bin Abdullah,P.004 Langkawi,Kedah,2,MOHD SUHAIMI BIN ABDULLAH,46,Male,Bumiputera,PERIKATAN NASIONAL (PN),25463,1,Won
+Mahathir Bin Mohamad,P.004 Langkawi,Kedah,3,MAHATHIR BIN MOHAMAD,96,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),4566,0,Lost deposit
+Armishah Bin Siraj,P.004 Langkawi,Kedah,4,DATO' ARMISHAH SIRAJ (DAS),58,Male,Bumiputera,BARISAN NASIONAL (BN),11945,0,Lost
+Zabidi Bin Yahya,P.004 Langkawi,Kedah,5,ZABIDI YAHYA,54,Male,Bumiputera,PAKATAN HARAPAN (PH),5417,0,Lost deposit
+Abd Ghani Bin Ahmad,P.005 Jerlun,Kedah,1,DR. ABD GHANI AHMAD,52,Male,Bumiputera,PERIKATAN NASIONAL (PN),31685,1,Won
+Mukhriz Mahathir,P.005 Jerlun,Kedah,2,DATO' SERI UTAMA MUKHRIZ MAHATHIR,58,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),3144,0,Lost deposit
+Mohamed Fadzil Bin Mohd Ali,P.005 Jerlun,Kedah,3,DR. MOHAMED FADZIL MOHD ALI,48,Male,Bumiputera,PAKATAN HARAPAN (PH),6149,0,Lost deposit
+Othman Bin Aziz,P.005 Jerlun,Kedah,4,OTHMAN BIN AZIZ,63,Male,Bumiputera,BARISAN NASIONAL (BN),11229,0,Lost
+Ku Abd Rahman Bin Ku Ismail,P.006 Kubang Pasu,Kedah,1,DATO' WIRA DR KU ABD RAHMAN BIN KU ISMAIL,70,Male,Bumiputera,PERIKATAN NASIONAL (PN),47584,1,Won
+Mohd Aizuddin Bin Ariffin,P.006 Kubang Pasu,Kedah,2,AIZUDDIN ARIFFIN,35,Male,Bumiputera,PAKATAN HARAPAN (PH),16000,0,Lost
+Amiruddin Bin Hamzah,P.006 Kubang Pasu,Kedah,3,AMIRUDDIN HAMZAH (TOK MET),60,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),5329,0,Lost deposit
+Hasmuni Bin Hassan,P.006 Kubang Pasu,Kedah,4,HASMUNI BIN HASSAN (TOK MUNI),43,Male,Bumiputera,BARISAN NASIONAL (BN),14489,0,Lost
+Razali Bin Lebai Salleh,P.007 Padang Terap,Kedah,1,RAZALI BIN LEBAI SALLEH,65,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),452,0,Lost deposit
+Mahdzir Bin Khalid,P.007 Padang Terap,Kedah,2,MAHDZIR BIN KHALID,61,Male,Bumiputera,BARISAN NASIONAL (BN),17258,0,Lost
+Muaz Bin Abdullah,P.007 Padang Terap,Kedah,3,MUAZ ABDULLAH,25,Male,Bumiputera,PAKATAN HARAPAN (PH),2702,0,Lost deposit
+Nurul Amin Bin Hamid,P.007 Padang Terap,Kedah,4,USTAZ NURUL AMIN,39,Male,Bumiputera,PERIKATAN NASIONAL (PN),28217,1,Won
+Noraini Binti Md Salleh,P.008 Pokok Sena,Kedah,1,NORAINI BINTI MD SALLEH,60,Female,Bumiputera,PARTI WARISAN SABAH (WARISAN),622,0,Lost deposit
+Ahmad Bin Saad @ Yahaya,P.008 Pokok Sena,Kedah,2,DATO' AHMAD YAHAYA,47,Male,Bumiputera,PERIKATAN NASIONAL (PN),52275,1,Won
+Noran Zamini Bin Jamaluddin,P.008 Pokok Sena,Kedah,3,NORAN ZAMINI BIN JAMALUDDIN,48,Male,Bumiputera,BARISAN NASIONAL (BN),14523,0,Lost
+Mahfuz Bin Omar,P.008 Pokok Sena,Kedah,4,DATO' WIRA HJ MAHFUZ OMAR,53,Male,Bumiputera,PAKATAN HARAPAN (PH),20524,0,Lost
+Mohamad Nuhairi Bin Rahmat,P.009 Alor Setar,Kedah,1,NUHAIRI RAHMAT,44,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),2383,0,Lost deposit
+Afnan Hamimi Bin Taib Azamudden,P.009 Alor Setar,Kedah,2,AFNAN HAMIMI BIN DATO' HAJI TAIB AZAMUDDEN,41,Male,Bumiputera,PERIKATAN NASIONAL (PN),37486,1,Won
+Fadzil Bin Hanafi,P.009 Alor Setar,Kedah,3,FADZIL BIN HANAFI,65,Male,Bumiputera,PARTI WARISAN SABAH (WARISAN),366,0,Lost deposit
+Ooi Tze Min,P.009 Alor Setar,Kedah,4,SIMON OOI TZE MIN,38,Male,Chinese,PAKATAN HARAPAN (PH),27555,0,Lost
+Nordin Bin Yunus,P.009 Alor Setar,Kedah,5,DATO' DR NORDIN YUNUS,NULL,Male,Bumiputera,BEBAS (BEBAS),115,0,Lost deposit
+Sofan Feroza Bin Md Yusup,P.009 Alor Setar,Kedah,6,SOFAN FEROZA,43,Male,Bumiputera,BEBAS (BEBAS),151,0,Lost deposit
+Tan Chee Hiong,P.009 Alor Setar,Kedah,7,TAN CHEE HIONG,43,Male,Chinese,BARISAN NASIONAL (BN),8930,0,Lost deposit
+Azman Bin Ismail,P.010 Kuala Kedah,Kedah,1,DR AZMAN ISMAIL,61,Male,Bumiputera,PAKATAN HARAPAN (PH),28237,0,Lost
+Syed Araniri Bin Syed Ahmad,P.010 Kuala Kedah,Kedah,2,PAK TUAN AL IDRUS,48,Male,Bumiputera,PARTI WARISAN SABAH (WARISAN),256,0,Lost deposit
+Ulya Aqamah Bin Husamudin,P.010 Kuala Kedah,Kedah,3,ULYA HUSAMUDIN,31,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),1805,0,Lost deposit
+Ahmad Fakhruddin Bin Fakhrurazi,P.010 Kuala Kedah,Kedah,4,DR. AHMAD FAKHRUDDIN,51,Male,Bumiputera,PERIKATAN NASIONAL (PN),56298,1,Won
+Mashitah Binti Ibrahim,P.010 Kuala Kedah,Kedah,5,DATO DR MASHITAH BINTI IBRAHIM,58,Female,Bumiputera,BARISAN NASIONAL (BN),13879,0,Lost
+Awang Bin Hashim,P.011 Pendang,Kedah,1,DATUK HAJI AWANG SOLAHUDIN,58,Male,Bumiputera,PERIKATAN NASIONAL (PN),49008,1,Won
+Zulkifly Bin Mohamad,P.011 Pendang,Kedah,2,DATO ZUL,52,Male,Bumiputera,PAKATAN HARAPAN (PH),8058,0,Lost deposit
+Abdul Rashid Bin Yob,P.011 Pendang,Kedah,3,RASHID YOB,43,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),809,0,Lost deposit
+Suraya Binti Yaacob,P.011 Pendang,Kedah,4,SURAYA BINTI YAACOB,53,Female,Bumiputera,BARISAN NASIONAL (BN),17719,0,Lost
+Zulhazmi Bin Shariff,P.012 Jerai,Kedah,1,ZULHAZMI BIN SHARIFF,46,Male,Bumiputera,PAKATAN HARAPAN (PH),15590,0,Lost
+Jamil Khir Bin Baharom,P.012 Jerai,Kedah,2,DATO SERI DR. JAMIL KHIR BAHAROM,61,Male,Bumiputera,BARISAN NASIONAL (BN),16269,0,Lost
+Sabri Bin Azit,P.012 Jerai,Kedah,3,USTAZ SABRI BIN AZIT,56,Male,Bumiputera,PERIKATAN NASIONAL (PN),49461,1,Won
+Mohd Nizam Bin Mahshar,P.012 Jerai,Kedah,4,DATUK NIZAM MAHSHAR,45,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),973,0,Lost deposit
+Maizatulakmam Binti Othman @ Ibrahim,P.013 Sik,Kedah,1,MAIZA,51,Female,Bumiputera,BARISAN NASIONAL (BN),12819,0,Lost
+Latifah Binti Md Yatim,P.013 Sik,Kedah,2,DATO' LATIFAH,65,Female,Bumiputera,PAKATAN HARAPAN (PH),3736,0,Lost deposit
+Ahmad Tarmizi Bin Sulaiman,P.013 Sik,Kedah,3,AHMAD TARMIZI SULAIMAN,46,Male,Bumiputera,PERIKATAN NASIONAL (PN),34606,1,Won
+Khairul Anuar Bin Ahmad,P.014 Merbok,Kedah,1,KHAIRUL ANUAR,45,Male,Bumiputera,PARTI WARISAN SABAH (WARISAN),525,0,Lost deposit
+Shaiful Hazizy Bin Zainol Abidin,P.014 Merbok,Kedah,2,DATO' SHAIFUL HAZIZY,46,Male,Bumiputera,BARISAN NASIONAL (BN),16691,0,Lost
+Nor Azrina Binti Surip,P.014 Merbok,Kedah,3,NURIN AINA,47,Female,Bumiputera,PAKATAN HARAPAN (PH),31554,0,Lost
+Mohd Nazri Bin Abu Hassan,P.014 Merbok,Kedah,4,MOHD NAZRI,52,Male,Bumiputera,PERIKATAN NASIONAL (PN),52573,1,Won
+Mohammed Mosin Bin Abdul Razak,P.014 Merbok,Kedah,5,DATUK MOSIN RAZAK,59,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),1201,0,Lost deposit
+Mohammed Taufiq Bin Johari,P.015 Sungai Petani,Kedah,1,DR. TAUFIQ BIN DATO' JOHARI,26,Male,Bumiputera,PAKATAN HARAPAN (PH),50580,1,Won
+Tan Joon Long @ Tan Chow Kang,P.015 Sungai Petani,Kedah,2,TAN JOON LONG @ TAN CHOW KANG,80,Male,Chinese,PARTI RAKYAT MALAYSIA (PRM),226,0,Lost deposit
+Marzuki Bin Yahya,P.015 Sungai Petani,Kedah,3,HJ. MARZUKI YAHYA,52,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),2342,0,Lost deposit
+Robert Ling Kui Ee,P.015 Sungai Petani,Kedah,4,DR. ROBERT LING,50,Male,Chinese,PERIKATAN NASIONAL (PN),49465,0,Lost
+Shahanim Binti Mohamad Yusoff,P.015 Sungai Petani,Kedah,5,DATO' SHAHANIM BINTI MOHAMAD YUSOFF,49,Female,Bumiputera,BARISAN NASIONAL (BN),27391,0,Lost
+Johari Bin Abdullah,P.016 Baling,Kedah,1,CIKGU JOHARI ABDULLAH,NULL,Male,Bumiputera,PAKATAN HARAPAN (PH),8636,0,Lost deposit
+Basir Bin H. Ab. Rahman,P.016 Baling,Kedah,2,LT KOL (B) BASIR,NULL,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),579,0,Lost deposit
+Abdul Azeez Bin Abdul Rahim,P.016 Baling,Kedah,3,DATUK AZEEZ RAHIM,56,Male,Bumiputera,BARISAN NASIONAL (BN),35356,0,Lost
+Hassan Bin Saad,P.016 Baling,Kedah,4,USTAZ HASSAN,65,Male,Bumiputera,PERIKATAN NASIONAL (PN),64493,1,Won
+Hamzah Bin Abd Rahman,P.017 Padang Serai,Kedah,1,HAMZAH ABD RAHMAN,65,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),N/A,0,Unknown
+Karupaiya A/L Mutusami,P.017 Padang Serai,Kedah,2,KARUPAIYA MUTUSAMI,69,Male,Indian,PAKATAN HARAPAN (PH),N/A,0,Unknown
+Sivaraj A/L Chandran,P.017 Padang Serai,Kedah,3,DATO SIVARAJ CHANDRAN,46,Male,Indian,BARISAN NASIONAL (BN),N/A,0,Unknown
+Azman Bin Nasrudin,P.017 Padang Serai,Kedah,4,DATO' CIKGU AZMAN,50,Male,Bumiputera,PERIKATAN NASIONAL (PN),N/A,0,Unknown
+Mohd Bakhri Bin Hashim,P.017 Padang Serai,Kedah,5,MOHD BAKHRI BIN HAJI HASHIM,61,Male,Bumiputera,PARTI WARISAN SABAH (WARISAN),N/A,0,Unknown
+Sreanandha Rao,P.017 Padang Serai,Kedah,6,ANANDA AK,38,Male,Indian,BEBAS (BEBAS),N/A,0,Unknown
+Saifuddin Nasution Bin Ismail,P.018 Kulim-Bandar Baharu,Kedah,1,DATUK SERI SAIFUDDIN NASUTION ISMAIL,58,Male,Bumiputera,PAKATAN HARAPAN (PH),21408,0,Lost
+Roslan Bin Hashim,P.018 Kulim-Bandar Baharu,Kedah,2,CIKGU ROSLAN HASHIM,55,Male,Bumiputera,PERIKATAN NASIONAL (PN),34469,1,Won
+Mohamad Yusrizal Bin Yusoff,P.018 Kulim-Bandar Baharu,Kedah,3,RIZAL,40,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),591,0,Lost deposit
+Muhar Bin Hussain,P.018 Kulim-Bandar Baharu,Kedah,4,DATUK MUHAR BIN HUSSAIN,56,Male,Bumiputera,BARISAN NASIONAL (BN),13872,0,Lost
+Khairul Azuan Bin Kamarrudin,P.019 Tumpat,Kelantan,1,KHAIRUL AZUAN,44,Male,Bumiputera,PARTI WARISAN SABAH (WARISAN),245,0,Lost deposit
+Mumtaz Binti Md Nawi,P.019 Tumpat,Kelantan,2,DATO' KAK TAZ,50,Female,Bumiputera,PARTI ISLAM SE MALAYSIA (PAS),65426,1,Won
+Che Mohd Asemari Bin Che Ali,P.019 Tumpat,Kelantan,3,ASRI ALI,59,Male,Bumiputera,PARTI BUMIPUTERA PERKASA MALAYSIA (PUTRA),593,0,Lost deposit
+Wan Mohd Johari Bin Wan Omar,P.019 Tumpat,Kelantan,4,HAJI WAN JO,57,Male,Bumiputera,PAKATAN HARAPAN (PH),7762,0,Lost deposit
+Che Abdullah Bin Mat Nawi,P.019 Tumpat,Kelantan,5,DATO' CHE LAH (DCL),62,Male,Bumiputera,BARISAN NASIONAL (BN),30633,0,Lost
+Mohamad Redzuan Bin Razali,P.020 Pengkalan Chepa,Kelantan,1,ABE WAE - REDZUAN,48,Male,Bumiputera,BEBAS (BEBAS),451,0,Lost deposit
+Nik Faizah Binti Nik Othman,P.020 Pengkalan Chepa,Kelantan,2,KAK JAH,48,Female,Bumiputera,PAKATAN HARAPAN (PH),7356,0,Lost deposit
+Wan Ahmad Nasri Bin Wan Ismail,P.020 Pengkalan Chepa,Kelantan,3,WAN AHMAD NASRI,54,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),358,0,Lost deposit
+Ahmad Marzuk Bin Shaary,P.020 Pengkalan Chepa,Kelantan,4,DATUK MARZUK,46,Male,Bumiputera,PARTI ISLAM SE MALAYSIA (PAS),53933,1,Won
+Mohd Hafiezulniezam Bin Mohd Hasdin,P.020 Pengkalan Chepa,Kelantan,5,DR. HAFIZ,37,Male,Bumiputera,BARISAN NASIONAL (BN),15663,0,Lost
+Takiyuddin Bin Hassan,P.021 Kota Bharu,Kelantan,1,DATUK SERI TAKIYUDDIN,61,Male,Bumiputera,PARTI ISLAM SE MALAYSIA (PAS),41869,1,Won
+Hafidzah Binti Haji Mustakim,P.021 Kota Bharu,Kelantan,2,DR HAFIDZAH,58,Female,Bumiputera,PAKATAN HARAPAN (PH),19256,0,Lost
+Rosmadi Bin Ismail,P.021 Kota Bharu,Kelantan,3,HJ. ROSMADI ISMAIL,60,Male,Bumiputera,BARISAN NASIONAL (BN),16168,0,Lost
+Tan Boon Kian,P.021 Kota Bharu,Kelantan,4,ANDY TAN @ AWANG,NULL,Male,Chinese,PARTI RAKYAT MALAYSIA (PRM),107,0,Lost deposit
+Che Musa Bin Che Omar,P.021 Kota Bharu,Kelantan,5,PROF. DATO DR CHE MUSA CHE OMAR,72,Male,Bumiputera,PARTI BUMIPUTERA PERKASA MALAYSIA (PUTRA),528,0,Lost deposit
+Izat Bukhary Bin Ismail Bukhary,P.021 Kota Bharu,Kelantan,6,IZAT BUKHARY,NULL,Male,Bumiputera,BEBAS (BEBAS),91,0,Lost deposit
+Husam Bin Musa,P.022 Pasir Mas,Kelantan,1,DATUK HUSAM,63,Male,Bumiputera,PAKATAN HARAPAN (PH),6439,0,Lost deposit
+Ahmad Fadhli Bin Shaari,P.022 Pasir Mas,Kelantan,2,USTAZ FADHLI SHAARI,42,Male,Bumiputera,PARTI ISLAM SE MALAYSIA (PAS),44444,1,Won
+Ab. Ghani Bin Harun,P.022 Pasir Mas,Kelantan,3,DATO GHANI,58,Male,Bumiputera,BARISAN NASIONAL (BN),13727,0,Lost
+Nasrul Ali Hasan Bin Abdul Latif,P.022 Pasir Mas,Kelantan,4,NASRUL ALI HASAN,31,Male,Bumiputera,PARTI BUMIPUTERA PERKASA MALAYSIA (PUTRA),543,0,Lost deposit
+Ibrahim Bin Ali,P.023 Rantau Panjang,Kelantan,1,DATO' DR. IBRAHIM ALI,71,Male,Bumiputera,PARTI BUMIPUTERA PERKASA MALAYSIA (PUTRA),1216,0,Lost deposit
+Siti Zailah Binti Mohd Yusoff,P.023 Rantau Panjang,Kelantan,2,KAK LAH,59,Female,Bumiputera,PARTI ISLAM SE MALAYSIA (PAS),37759,1,Won
+Mohd Zain Bin Ismail,P.023 Rantau Panjang,Kelantan,3,DATUK ZAIN,68,Male,Bumiputera,PARTI RAKYAT MALAYSIA (PRM),173,0,Lost deposit
+Zulkarnain Bin Yusoff,P.023 Rantau Panjang,Kelantan,4,PROF UST ZUL,60,Male,Bumiputera,BARISAN NASIONAL (BN),17123,0,Lost
+Wan Shah Jihan Bin Wan Din,P.023 Rantau Panjang,Kelantan,5,DR SHAH,51,Male,Bumiputera,PAKATAN HARAPAN (PH),4256,0,Lost deposit
+Wan Ahmad Kamil Bin Wan Abdullah,P.024 Kubang Kerian,Kelantan,1,DR.WAN AHMAD KAMIL,64,Male,Bumiputera,PAKATAN HARAPAN (PH),10236,0,Lost
+Mohamad Rizal Bin Razali,P.024 Kubang Kerian,Kelantan,2,RIZAL,45,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),687,0,Lost deposit
+Nurul Amal Binti Mohd Fauzi,P.024 Kubang Kerian,Kelantan,3,KAK LONG,37,Female,Bumiputera,BARISAN NASIONAL (BN),14807,0,Lost
+Tuan Ibharim Bin Tuan Man,P.024 Kubang Kerian,Kelantan,4,USTAZ DATO' TUAN IBRAHIM,62,Male,Bumiputera,PARTI ISLAM SE MALAYSIA (PAS),55654,1,Won
+Mohd Syahir Bin Che Sulaiman,P.025 Bachok,Kelantan,1,SYAHIR SULAIMAN,39,Male,Bumiputera,PARTI ISLAM SE MALAYSIA (PAS),57130,1,Won
+Nor Azmiza Binti Mamat,P.025 Bachok,Kelantan,2,NOR AZMIZA MAMAT,38,Female,Bumiputera,PAKATAN HARAPAN (PH),4366,0,Lost deposit
+Mohd Zulkifli Bin Haji Zakaria,P.025 Bachok,Kelantan,3,HAJI ZU,62,Male,Bumiputera,BEBAS (BEBAS),418,0,Lost deposit
+Kamarul Azam Bin Othman,P.025 Bachok,Kelantan,4,CIKGU ZAM,50,Male,Bumiputera,PARTI BUMIPUTERA PERKASA MALAYSIA (PUTRA),274,0,Lost deposit
+Mohd Zain Bin Yasim,P.025 Bachok,Kelantan,5,DATUK HAJI ZAIN,57,Male,Bumiputera,BARISAN NASIONAL (BN),27229,0,Lost
+Rahimi Bin L.Muhamud,P.026 Ketereh,Kelantan,1,HAJI RAHIMI,53,Male,Bumiputera,PAKATAN HARAPAN (PH),4662,0,Lost deposit
+Marzuani Ardila Binti Ariffin,P.026 Ketereh,Kelantan,2,MARZUANI ARDILA ARIFFIN (GEE),39,Female,Bumiputera,BARISAN NASIONAL (BN),17435,0,Lost
+Khlir Bin Mohd Nor,P.026 Ketereh,Kelantan,3,MEJ JEN DATO HJ KHLIR (B),64,Male,Bumiputera,PARTI ISLAM SE MALAYSIA (PAS),40542,1,Won
+Haneef Bin Ibrahim,P.026 Ketereh,Kelantan,4,HANEEF IBRAHIM (ABE HANEEF),51,Male,Bumiputera,PARTI BUMIPUTERA PERKASA MALAYSIA (PUTRA),223,0,Lost deposit
+Bakri @ Mohd Bakri Bin Mustapha,P.027 Tanah Merah,Kelantan,1,CIKGU BAKRI,57,Male,Bumiputera,BARISAN NASIONAL (BN),9781,0,Lost
+Mohamad Suparadi Bin Md Noor,P.027 Tanah Merah,Kelantan,2,DATO' D,62,Male,Bumiputera,PAKATAN HARAPAN (PH),5357,0,Lost deposit
+Mohd Nasir Bin Abdullah,P.027 Tanah Merah,Kelantan,3,LAWYER NASIR ABDULLAH,61,Male,Bumiputera,PARTI BUMIPUTERA PERKASA MALAYSIA (PUTRA),168,0,Lost deposit
+Haji Nik Sapeia Bin Nik Yusof,P.027 Tanah Merah,Kelantan,4,DATUK NIK SAPEIA,NULL,Male,Bumiputera,BEBAS (BEBAS),114,0,Lost deposit
+Ikmal Hisham Bin Abdul Aziz,P.027 Tanah Merah,Kelantan,5,DATO' SRI IKMAL HISHAM,57,Male,Bumiputera,PARTI ISLAM SE MALAYSIA (PAS),54266,1,Won
+Wan Marzudi Bin Wan Omar,P.028 Pasir Puteh,Kelantan,1,KAPTEN WAN MARZUDI,62,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),349,0,Lost deposit
+Zawawi Bin Othman,P.028 Pasir Puteh,Kelantan,2,DATUK CIKGU AWI,57,Male,Bumiputera,BARISAN NASIONAL (BN),23828,0,Lost
+Muhammad Bin Husain,P.028 Pasir Puteh,Kelantan,3,USTAZ MUHAMMAD HUSAIN,70,Male,Bumiputera,PAKATAN HARAPAN (PH),3864,0,Lost deposit
+Nik Muhammad Zawawi Bin Salleh,P.028 Pasir Puteh,Kelantan,4,USTAZ NIK ZAWAWI,55,Male,Bumiputera,PARTI ISLAM SE MALAYSIA (PAS),52937,1,Won
+Ahmad Jazlan Bin Yaakub,P.029 Machang,Kelantan,1,DATUK JAZLAN,58,Male,Bumiputera,BARISAN NASIONAL (BN),25449,0,Lost
+Muhamad Bin Seman,P.029 Machang,Kelantan,2,MEJAR (B) MAT,73,Male,Bumiputera,PARTI BUMIPUTERA PERKASA MALAYSIA (PUTRA),128,0,Lost deposit
+Wan Ahmad Fayhsal Bin Wan Ahmad Kamal,P.029 Machang,Kelantan,3,WAN AHMAD FAYHSAL,35,Male,Bumiputera,PARTI ISLAM SE MALAYSIA (PAS),35603,1,Won
+Rosli Allani Bin S. Abdull Kadir,P.029 Machang,Kelantan,4,DR ROSLI,48,Male,Bumiputera,PAKATAN HARAPAN (PH),3934,0,Lost deposit
+Mohamed Bin Daud,P.030 Jeli,Kelantan,1,PROFESSOR DR IR HJ MAT,NULL,Male,Bumiputera,PARTI BUMIPUTERA PERKASA MALAYSIA (PUTRA),133,0,Lost deposit
+Zahari Bin Kechik,P.030 Jeli,Kelantan,2,POK ZAHARI,62,Male,Bumiputera,PARTI ISLAM SE MALAYSIA (PAS),27072,1,Won
+Norwahida Binti Patuan,P.030 Jeli,Kelantan,3,NORWAHIDA PATUAN,42,Female,Bumiputera,BARISAN NASIONAL (BN),14608,0,Lost
+Md Radzi Bin Wahab,P.030 Jeli,Kelantan,4,MD RADZI,NULL,Male,Bumiputera,PAKATAN HARAPAN (PH),1140,0,Lost deposit
+Abdul Latiff Bin Abdul Rahman,P.031 Kuala Krai,Kelantan,1,USTAZ LATIFF,51,Male,Bumiputera,PARTI ISLAM SE MALAYSIA (PAS),42740,1,Won
+Mohamed Zulkepli Bin Omar,P.031 Kuala Krai,Kelantan,2,ZUKI,57,Male,Bumiputera,BARISAN NASIONAL (BN),17552,0,Lost
+Norashikin Binti Che Omar,P.031 Kuala Krai,Kelantan,3,NORASHIKIN,39,Female,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),241,0,Lost deposit
+Mohd Hisyamuddin Bin Ghazali,P.031 Kuala Krai,Kelantan,4,SYAM GHAZ,30,Male,Bumiputera,PAKATAN HARAPAN (PH),4148,0,Lost deposit
+Tengku Razaleigh Bin Tengku Mohd Hamzah,P.032 Gua Musang,Kelantan,1,TENGKU RAZALEIGH HAMZAH,85,Male,Bumiputera,BARISAN NASIONAL (BN),21663,0,Lost
+Mohd Azizi Bin Abu Naim,P.032 Gua Musang,Kelantan,2,MOHD AZIZI ABU NAIM,50,Male,Bumiputera,PARTI ISLAM SE MALAYSIA (PAS),21826,1,Won
+Samsu Adabi Bin Mamat,P.032 Gua Musang,Kelantan,3,DATO' DR. ADABI,53,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),371,0,Lost deposit
+Asharun Bin Uji,P.032 Gua Musang,Kelantan,4,ABE YO,48,Male,Bumiputera,PAKATAN HARAPAN (PH),4517,0,Lost deposit
+Che Mohamad Zulkifly Bin Jusoh,P.033 Besut,Terengganu,1,DATUK ABE ZUL,63,Male,Bumiputera,PARTI ISLAM SE MALAYSIA (PAS),49569,1,Won
+Wan Nazari Bin Wan Jusoh,P.033 Besut,Terengganu,2,DATO' IR. WAN NAZARI,62,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),553,0,Lost deposit
+Abd Rahman @ Abdul Aziz Bin Hj Abas,P.033 Besut,Terengganu,3,USTAZ AZIZ,60,Male,Bumiputera,PAKATAN HARAPAN (PH),4339,0,Lost deposit
+Nawi Bin Mohamad,P.033 Besut,Terengganu,4,DATUK HAJI NAWI MOHAMAD,59,Male,Bumiputera,BARISAN NASIONAL (BN),30903,0,Lost
+Abdul Rahman Bin Mat Yasin,P.034 Setiu,Terengganu,1,ABDUL RAHMAN BIN MAT YASIN,66,Male,Bumiputera,BARISAN NASIONAL (BN),31736,0,Lost
+Shaharizukirnain Bin Abd Kadir,P.034 Setiu,Terengganu,2,USTAZ ZUKIRNAIN ABD KADIR,53,Male,Bumiputera,PARTI ISLAM SE MALAYSIA (PAS),50768,1,Won
+Mohamad Bin Ngah,P.034 Setiu,Terengganu,3,MOHAMAD BIN NGAH,59,Male,Bumiputera,PAKATAN HARAPAN (PH),2125,0,Lost deposit
+Wan Adnan Bin Wan Ali,P.034 Setiu,Terengganu,4,WAN ADNAN,62,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),203,0,Lost deposit
+Alias Bin Razak,P.035 Kuala Nerus,Terengganu,1,DATO' DR. HAJI ALIAS RAZAK,63,Male,Bumiputera,PARTI ISLAM SE MALAYSIA (PAS),56697,1,Won
+Mohd Khairuddin Bin Aman Razali,P.035 Kuala Nerus,Terengganu,2,UST. DATO' DR. KHAIRUDDIN TAKIRI,48,Male,Bumiputera,BARISAN NASIONAL (BN),26932,0,Lost
+Azaha Bin Wahid,P.035 Kuala Nerus,Terengganu,3,AZAHA,62,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),291,0,Lost deposit
+Suhaimi Bin Hashim,P.035 Kuala Nerus,Terengganu,4,DATO' SERI SUHAIMI HASHIM,59,Male,Bumiputera,PAKATAN HARAPAN (PH),3708,0,Lost deposit
+Mohamad Abu Bakar Bin Muda,P.036 Kuala Terengganu,Terengganu,1,MOHAMAD ABU BAKAR BIN MUDA,57,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),481,0,Lost deposit
+Mohd Zubir Bin Embong,P.036 Kuala Terengganu,Terengganu,2,DATO' CIKGU ZUBIR,58,Male,Bumiputera,BARISAN NASIONAL (BN),22109,0,Lost
+Raja Kamarul Bahrin Shah,P.036 Kuala Terengganu,Terengganu,3,DATO' RAJA BAHRIN,67,Male,Bumiputera,PAKATAN HARAPAN (PH),10946,0,Lost deposit
+Ahmad Amzad Bin Mohamed @ Hashim,P.036 Kuala Terengganu,Terengganu,4,DATUK HAJI AMZAD HASHIM,52,Male,Bumiputera,PARTI ISLAM SE MALAYSIA (PAS),63016,1,Won
+Abdul Hadi Bin Awang,P.037 Marang,Terengganu,1,TUAN GURU HAJI ABDUL HADI AWANG,75,Male,Bumiputera,PARTI ISLAM SE MALAYSIA (PAS),73115,1,Won
+Jasmira Bin Othman,P.037 Marang,Terengganu,2,JASMIRA OTHMAN,48,Male,Bumiputera,BARISAN NASIONAL (BN),31386,0,Lost
+Zarawi Bin Sulong,P.037 Marang,Terengganu,3,DR.ZARAWI BIN SULONG,60,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),427,0,Lost deposit
+Azhar Bin Ab Shukur,P.037 Marang,Terengganu,4,USTAZ AZHAR,57,Male,Bumiputera,PAKATAN HARAPAN (PH),4140,0,Lost deposit
+Rozi Bin Mamat,P.038 Hulu Terengganu,Terengganu,1,CIKGU ROZI,51,Male,Bumiputera,BARISAN NASIONAL (BN),27176,0,Lost
+Mohd Khadri Bin Abdullah,P.038 Hulu Terengganu,Terengganu,2,KHADRI,49,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),182,0,Lost deposit
+Rosol Bin Wahid,P.038 Hulu Terengganu,Terengganu,3,DATO ROSOL WAHID,58,Male,Bumiputera,PARTI ISLAM SE MALAYSIA (PAS),42910,1,Won
+Alias Bin Ismail,P.038 Hulu Terengganu,Terengganu,4,CIKGU ALIAS ISMAIL,54,Male,Bumiputera,PAKATAN HARAPAN (PH),1740,0,Lost deposit
+Ghazali Bin Ismail,P.039 Dungun,Terengganu,1,PEGUAM GHAZALI,NULL,Male,Bumiputera,BEBAS (BEBAS),305,0,Lost deposit
+Noraisah Binti Hasan,P.039 Dungun,Terengganu,2,NORAISAH BINTI HASAN,NULL,Female,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),322,0,Lost deposit
+Mohasdjone @ Mohd Johari Bin Mohamad,P.039 Dungun,Terengganu,3,DATO' DR MOHD JOHARI,51,Male,Bumiputera,PAKATAN HARAPAN (PH),5307,0,Lost deposit
+Nurhisam Bin Johari,P.039 Dungun,Terengganu,4,USTAZ SHAM,40,Male,Bumiputera,BARISAN NASIONAL (BN),25615,0,Lost
+Wan Hassan Bin Mohd Ramli,P.039 Dungun,Terengganu,5,USTAZ HAJI WAN HASSAN,65,Male,Bumiputera,PARTI ISLAM SE MALAYSIA (PAS),59720,1,Won
+Rosli Bin Ab. Ghani,P.040 Kemaman,Terengganu,1,ROSLI,NULL,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),506,0,Lost deposit
+Che Alias Bin Hamid,P.040 Kemaman,Terengganu,2,USTAZ CHE ALIAS HAMID,51,Male,Bumiputera,PARTI ISLAM SE MALAYSIA (PAS),65714,1,Won
+Ahmad Bin Said,P.040 Kemaman,Terengganu,3,DATO' SERI HJ AHMAD BIN SAID,65,Male,Bumiputera,BARISAN NASIONAL (BN),38535,0,Lost
+Hasuni Bin Sudin,P.040 Kemaman,Terengganu,4,HASUNI BIN SUDIN,60,Male,Bumiputera,PAKATAN HARAPAN (PH),8340,0,Lost deposit
+Hamidi Bin Abu Hassan,P.041 Kepala Batas,Pulau Pinang,1,USTAZ HAMIDI ABU HASSAN,51,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),747,0,Lost deposit
+Siti Mastura Binti Muhammad,P.041 Kepala Batas,Pulau Pinang,2,DR USTAZAH MASTURA,33,Female,Bumiputera,PERIKATAN NASIONAL (PN),28604,1,Won
+Muhammad Danial Bin Abdul Majeed,P.041 Kepala Batas,Pulau Pinang,3,DANIAL ABDUL MAJEED,26,Male,Bumiputera,IKATAN DEMOKRATIK MALAYSIA (MUDA),14214,0,Lost
+Reezal Merican Bin Naina Merican,P.041 Kepala Batas,Pulau Pinang,4,DATO' SRI REEZAL MERICAN BIN NAINA MERICAN,50,Male,Bumiputera,BARISAN NASIONAL (BN),25737,0,Lost
+Mohamad Akmal Bin Azhar,P.042 Tasek Gelugor,Pulau Pinang,1,AKMAL AZHAR,31,Male,Bumiputera,PARTI WARISAN SABAH (WARISAN),179,0,Lost deposit
+Nik Abdul Razak Bin Nik Md Ridzuan,P.042 Tasek Gelugor,Pulau Pinang,2,RAZAK RIDZUAN,35,Male,Bumiputera,PAKATAN HARAPAN (PH),16547,0,Lost
+Abdul Halim Bin Sher Jung,P.042 Tasek Gelugor,Pulau Pinang,3,DR. ABDUL HALIM,51,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),406,0,Lost deposit
+Muhamad Yusoff Bin Mohd Noor,P.042 Tasek Gelugor,Pulau Pinang,4,MUHAMAD YUSOFF BIN MOHD NOOR (YB CHOP),59,Male,Bumiputera,BARISAN NASIONAL (BN),18864,0,Lost
+Wan Saifulruddin Bin Wan Jan,P.042 Tasek Gelugor,Pulau Pinang,5,DATUK WAN SAIFUL WAN JAN,47,Male,Bumiputera,PERIKATAN NASIONAL (PN),31116,1,Won
+Tan Chuan Hong,P.043 Bagan,Pulau Pinang,1,TAN CHUAN HONG,55,Male,Chinese,BARISAN NASIONAL (BN),5385,0,Lost deposit
+Lim Guan Eng,P.043 Bagan,Pulau Pinang,2,LIM GUAN ENG,61,Male,Chinese,PAKATAN HARAPAN (PH),55797,1,Won
+Oh Teik Choon,P.043 Bagan,Pulau Pinang,3,ALAN OH,46,Male,Chinese,PERIKATAN NASIONAL (PN),6149,0,Lost deposit
+Mohammed Hafiz Bin Mohamed Abu Bakar,P.043 Bagan,Pulau Pinang,4,HAFIZ,35,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),1323,0,Lost deposit
+Mohd Zaidi Bin Mohd Said,P.044 Permatang Pauh,Pulau Pinang,1,DATUK ZAIDI,53,Male,Bumiputera,BARISAN NASIONAL (BN),16971,0,Lost
+Muhammad Fawwaz Bin Mohamad Jan,P.044 Permatang Pauh,Pulau Pinang,2,UST FAWWAZ MD JAN,39,Male,Bumiputera,PERIKATAN NASIONAL (PN),37638,1,Won
+Mohd Nasir Bin Othman,P.044 Permatang Pauh,Pulau Pinang,3,CIKGU NASIR,46,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),473,0,Lost deposit
+Nurul Izzah Binti Anwar,P.044 Permatang Pauh,Pulau Pinang,4,NURUL IZZAH ANWAR,42,Female,Bumiputera,PAKATAN HARAPAN (PH),32366,0,Lost
+Sim Chee Keong,P.045 Bukit Mertajam,Pulau Pinang,1,STEVEN SIM CHEE KEONG,40,Male,Chinese,PAKATAN HARAPAN (PH),71722,1,Won
+Tan Yang Pang,P.045 Bukit Mertajam,Pulau Pinang,2,AH PANG,39,Male,Chinese,BARISAN NASIONAL (BN),6986,0,Lost deposit
+Koh Tien Yew,P.045 Bukit Mertajam,Pulau Pinang,3,STEVEN KOH,41,Male,Chinese,PERIKATAN NASIONAL (PN),14037,0,Lost
+Lee Ah Leong,P.046 Batu Kawan,Pulau Pinang,1,LEE AH LEONG,54,Male,Chinese,PARTI RAKYAT MALAYSIA (PRM),148,0,Lost deposit
+Chow Kon Yeow,P.046 Batu Kawan,Pulau Pinang,2,CHOW KON YEOW,64,Male,Chinese,PAKATAN HARAPAN (PH),50744,1,Won
+Tan Lee Huat,P.046 Batu Kawan,Pulau Pinang,3,TAN LEE HUAT,55,Male,Bumiputera,BARISAN NASIONAL (BN),7145,0,Lost deposit
+Wong Chia Zhen,P.046 Batu Kawan,Pulau Pinang,4,WONG CHIA ZHEN,37,Male,Chinese,PERIKATAN NASIONAL (PN),10344,0,Lost
+Ong Chin Wen,P.046 Batu Kawan,Pulau Pinang,5,ONG CHIN WEN,45,Male,Chinese,PARTI WARISAN SABAH (WARISAN),450,0,Lost deposit
+Fadhlina Binti Sidek,P.047 Nibong Tebal,Pulau Pinang,1,FADHLINA BINTI SIDEK,45,Female,Bumiputera,PAKATAN HARAPAN (PH),42188,1,Won
+Mansor Bin Othman,P.047 Nibong Tebal,Pulau Pinang,2,DATO' MANSOR BIN OTHMAN,72,Male,Bumiputera,PERIKATAN NASIONAL (PN),25895,0,Lost
+Thanenthiran A/L Ramankutty,P.047 Nibong Tebal,Pulau Pinang,3,DATUK SERI THANENTHIRAN,59,Male,Indian,BARISAN NASIONAL (BN),10660,0,Lost
+Goh Kheng Huat,P.047 Nibong Tebal,Pulau Pinang,4,GOH KHENG HUAT,59,Male,Chinese,BEBAS (BEBAS),565,0,Lost deposit
+Syerleena Binti Abdul Rashid,P.048 Bukit Bendera,Pulau Pinang,1,SYERLEENA ABDUL RASHID,42,Female,Bumiputera,PAKATAN HARAPAN (PH),49353,1,Won
+Teh Yee Cheu,P.048 Bukit Bendera,Pulau Pinang,2,TEH YEE CHEU,64,Male,Chinese,PARTI RAKYAT MALAYSIA (PRM),677,0,Lost deposit
+Hng Chee Wey,P.048 Bukit Bendera,Pulau Pinang,3,HNG CHEE WEY,45,Male,Chinese,PERIKATAN NASIONAL (PN),6743,0,Lost deposit
+Huan Xin Yun,P.048 Bukit Bendera,Pulau Pinang,4,RICHIE HUAN XIN YUN,33,Male,Chinese,BARISAN NASIONAL (BN),5417,0,Lost deposit
+Razalif Bin Mohamad Zain,P.048 Bukit Bendera,Pulau Pinang,5,RAZALIF ZAIN,32,Male,Bumiputera,BEBAS (BEBAS),299,0,Lost deposit
+Lim Hui Ying,P.049 Tanjong,Pulau Pinang,1,LIM HUI YING,59,Female,Chinese,PAKATAN HARAPAN (PH),31968,1,Won
+Tan Kim Nee,P.049 Tanjong,Pulau Pinang,2,TAN KIM NEE,37,Female,Chinese,BARISAN NASIONAL (BN),3214,0,Lost deposit
+H'Ng Khoon Leng,P.049 Tanjong,Pulau Pinang,3,AH LENG,58,Male,Chinese,PERIKATAN NASIONAL (PN),2501,0,Lost deposit
+Sanisvara Nethaji Rayer A/L Rajaji,P.050 Jelutong,Pulau Pinang,1,SANISVARA NETHAJI RAYER (RSN RAYER),51,Male,Indian,PAKATAN HARAPAN (PH),50369,1,Won
+Baljit Singh A/L Jigiri Singh,P.050 Jelutong,Pulau Pinang,2,BALJIT SINGH,56,Male,Other,PERIKATAN NASIONAL (PN),11765,0,Lost
+Koh Swe Yong,P.050 Jelutong,Pulau Pinang,3,KOH SWE YONG,71,Male,Chinese,PARTI RAKYAT MALAYSIA (PRM),264,0,Lost deposit
+Mohamed Yacoob Bin Mohamed Noor,P.050 Jelutong,Pulau Pinang,4,YACOOB BIN NOOR,NULL,Male,Bumiputera,BEBAS (BEBAS),480,0,Lost deposit
+Loganathan A/L Thoraisamy,P.050 Jelutong,Pulau Pinang,5,DATUK LOGANATHAN A/L THORAISAMY,58,Male,Bumiputera,BARISAN NASIONAL (BN),7387,0,Lost deposit
+Lim Huat Poh,P.050 Jelutong,Pulau Pinang,6,LIM HUAT POH (MARTIN),53,Male,Chinese,PARTI WARISAN SABAH (WARISAN),442,0,Lost deposit
+Thinagaranabhan A/L Padmanabhan,P.051 Bukit Gelugor,Pulau Pinang,1,P. THINAGARANABHAN,41,Male,Indian,PERIKATAN NASIONAL (PN),8092,0,Lost deposit
+Ramkarpal Singh A/L Karpal Singh,P.051 Bukit Gelugor,Pulau Pinang,2,RAMKARPAL SINGH,46,Male,Other,PAKATAN HARAPAN (PH),71204,1,Won
+Wong Chin Chong,P.051 Bukit Gelugor,Pulau Pinang,3,WONG CHIN CHONG,48,Male,Chinese,BARISAN NASIONAL (BN),6777,0,Lost deposit
+Saw Yee Fung,P.052 Bayan Baru,Pulau Pinang,1,SAW YEE FUNG,33,Female,Chinese,BARISAN NASIONAL (BN),13377,0,Lost
+Ooi Chuan Aun,P.052 Bayan Baru,Pulau Pinang,2,JEFF OOI,67,Male,Chinese,PARTI WARISAN SABAH (WARISAN),440,0,Lost deposit
+Ravinder Singh A/L Mall Singh,P.052 Bayan Baru,Pulau Pinang,3,RAVINDER SINGH,80,Male,Other,PARTI RAKYAT MALAYSIA (PRM),251,0,Lost deposit
+Kan Chee Yuen,P.052 Bayan Baru,Pulau Pinang,4,KAN CHEE YUEN,49,Male,Chinese,BEBAS (BEBAS),124,0,Lost deposit
+Sim Tze Tzin,P.052 Bayan Baru,Pulau Pinang,5,SIM TZE TZIN,46,Male,Chinese,PAKATAN HARAPAN (PH),55209,1,Won
+Oh Tong Keong,P.052 Bayan Baru,Pulau Pinang,6,OH TONG KEONG,54,Male,Chinese,PERIKATAN NASIONAL (PN),20307,0,Lost
+Shah Headan Bin Ayoob Hussain Shah,P.053 Balik Pulau,Pulau Pinang,1,DATUK SHAH HEADAN BIN AYOOB SHAH,58,Male,Bumiputera,BARISAN NASIONAL (BN),15478,0,Lost
+Muhammad Bakhtiar Bin Wan Chik,P.053 Balik Pulau,Pulau Pinang,2,MUHAMMAD BAKHTIAR BIN WAN CHIK,57,Male,Bumiputera,PAKATAN HARAPAN (PH),24564,1,Won
+Ch'ng Ewe Gee,P.053 Balik Pulau,Pulau Pinang,3,DATO' SRI JOHNNY (DSJ),49,Male,Chinese,BEBAS (BEBAS),180,0,Lost deposit
+Muhammad Harris Idaham Bin Abdul Rashid,P.053 Balik Pulau,Pulau Pinang,4,HARRIS IDAHAM RASHID,30,Male,Bumiputera,PERIKATAN NASIONAL (PN),22982,0,Lost
+Sabaruddin Bin Ahmad,P.053 Balik Pulau,Pulau Pinang,5,DATO SRI SABARUDDIN BIN AHMAD,49,Male,Bumiputera,BEBAS (BEBAS),366,0,Lost deposit
+Ahmad Fazli Bin Mohammad,P.053 Balik Pulau,Pulau Pinang,6,FAZLI MOHAMMAD,39,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),341,0,Lost deposit
+Asyraf Wajdi Bin Dusuki,P.054 Gerik,Perak,1,DR ASYRAF WAJDI DUSUKI,46,Male,Bumiputera,BARISAN NASIONAL (BN),13728,0,Lost
+Fathul Huzir Bin Ayob,P.054 Gerik,Perak,2,FATHUL HUZIR AYOB,39,Male,Bumiputera,PERIKATAN NASIONAL (PN),15105,1,Won
+Ahmad Tarmizi Bin Mohd Jam,P.054 Gerik,Perak,3,TARMIZI MOHD JAM,53,Male,Bumiputera,PAKATAN HARAPAN (PH),5779,0,Lost
+Shamsul Anuar Bin Nasarah,P.055 Lenggong,Perak,1,DR SHAMSUL ANUAR NASARAH,55,Male,Bumiputera,BARISAN NASIONAL (BN),12588,1,Won
+Jurey Latiff Bin Mohd Rosli,P.055 Lenggong,Perak,2,JUREY LATIFF ROSLI,56,Male,Bumiputera,PAKATAN HARAPAN (PH),3382,0,Lost deposit
+Muhammad Rif'Aat Bin Razman,P.055 Lenggong,Perak,3,USTAZ RIF'AAT RAZMAN,35,Male,Bumiputera,PERIKATAN NASIONAL (PN),11709,0,Lost
+Auzaie Bin Fadzlan Shahidi,P.056 Larut,Perak,1,USTAZ AUZAIE,27,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),566,0,Lost deposit
+Zolkharnain Bin Abidin,P.056 Larut,Perak,2,USTAZ ZOLKHARNAIN BIN ABIDIN,55,Male,Bumiputera,PAKATAN HARAPAN (PH),6207,0,Lost deposit
+Mohd Shafiq Fhadly Bin Mahmud,P.056 Larut,Perak,3,SHAFIQ FHADLY MAHMUD,37,Male,Bumiputera,BARISAN NASIONAL (BN),16752,0,Lost
+Hamzah Bin Zainudin,P.056 Larut,Perak,4,DATO SERI HAMZAH ZAINUDIN,65,Male,Bumiputera,PERIKATAN NASIONAL (PN),28350,1,Won
+Mujahid Bin Yusof,P.057 Parit Buntar,Perak,1,DATUK SERI DR MUJAHID YUSOF RAWA,58,Male,Bumiputera,PAKATAN HARAPAN (PH),17828,0,Lost
+Imran Bin Mohd Yusof,P.057 Parit Buntar,Perak,2,CIKGU IMRAN,47,Male,Bumiputera,BARISAN NASIONAL (BN),11593,0,Lost
+Rohijas Bin Md Sharif,P.057 Parit Buntar,Perak,3,HJ ROHIJAS,57,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),259,0,Lost deposit
+Mohd Misbahul Munir Bin Masduki,P.057 Parit Buntar,Perak,4,USTAZ MISBAH,59,Male,Bumiputera,PERIKATAN NASIONAL (PN),23223,1,Won
+Idris Bin Ahmad,P.058 Bagan Serai,Perak,1,DATUK USTAZ IDRIS,59,Male,Bumiputera,PERIKATAN NASIONAL (PN),33753,1,Won
+Ahmad Luqman Bin Ahmad Yahaya,P.058 Bagan Serai,Perak,2,HAJI AHMAD LUQMAN,47,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),383,0,Lost deposit
+Zul Helmi Bin Ghazali,P.058 Bagan Serai,Perak,3,HAJI ZUL HELMI GHAZALI,43,Male,Bumiputera,BARISAN NASIONAL (BN),15202,0,Lost
+Siti Aishah Binti Shaik Ismail,P.058 Bagan Serai,Perak,4,SITI AISHAH BINTI SHAIK ISMAIL,37,Female,Bumiputera,PAKATAN HARAPAN (PH),13195,0,Lost
+Syed Abu Hussin Bin Hafiz Syed Abdul Fasal,P.059 Bukit Gantang,Perak,1,DATO' SYED ABU HUSSIN,62,Male,Bumiputera,PERIKATAN NASIONAL (PN),32625,1,Won
+Mohd Shukri Bin Mohd Yusoff,P.059 Bukit Gantang,Perak,2,MOHD SHUKRI,33,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),508,0,Lost deposit
+Fakhruldin Bin Mohd Hashim,P.059 Bukit Gantang,Perak,3,DR FAKHRULDIN MOHD HASHIM,58,Male,Bumiputera,PAKATAN HARAPAN (PH),18565,0,Lost
+Mohammad Sollehin Bin Mohamad Tajie,P.059 Bukit Gantang,Perak,4,MOHAMMAD SOLLEHIN,34,Male,Bumiputera,BARISAN NASIONAL (BN),19869,0,Lost
+Neow Choo Seong,P.060 Taiping,Perak,1,NEOW CHOO SEONG,37,Male,Chinese,BARISAN NASIONAL (BN),14599,0,Lost
+Mohganan A/L P Manikam,P.060 Taiping,Perak,2,MOHGANAN A/L P MANIKAM,59,Male,Indian,BEBAS (BEBAS),236,0,Lost deposit
+Wong Kah Woh,P.060 Taiping,Perak,3,WONG KAH WOH,42,Male,Chinese,PAKATAN HARAPAN (PH),47098,1,Won
+See Tean Seng,P.060 Taiping,Perak,4,CIKGU SEE TEAN SENG,66,Male,Chinese,PERIKATAN NASIONAL (PN),21569,0,Lost
+Ts.Dr.Rama Moorthy@Steven Ram A/L Appanah,P.060 Taiping,Perak,5,TS.DR.RAMA,58,Male,Indian,BEBAS (BEBAS),113,0,Lost deposit
+Leow Thye Yih,P.060 Taiping,Perak,6,LEOW THYE YIH,55,Male,Chinese,BEBAS (BEBAS),1154,0,Lost deposit
+Azahari Bin Hasan,P.061 Padang Rengas,Perak,1,KAPTEN AZAHARI,48,Male,Bumiputera,PERIKATAN NASIONAL (PN),12931,1,Won
+Mohd Arrif Bin Abdul Majid,P.061 Padang Rengas,Perak,2,MOHD ARRIF BIN ABDUL MAJID,41,Male,Bumiputera,BARISAN NASIONAL (BN),9885,0,Lost
+Muhammad Kamil Bin Abdul Munim,P.061 Padang Rengas,Perak,3,KAMIL MUNIM,32,Male,Bumiputera,PAKATAN HARAPAN (PH),7062,0,Lost
+Indrani A/P Ramasamy,P.062 Sungai Siput,Perak,1,INDRANI,55,Female,Indian,BEBAS (BEBAS),614,0,Lost deposit
+Baharudin Bin Kamarudin,P.062 Sungai Siput,Perak,2,HAJI BAHA,63,Male,Bumiputera,BEBAS (BEBAS),598,0,Lost deposit
+S. Vigneswaran A/L M. Sanasee,P.062 Sungai Siput,Perak,3,TAN SRI SA. VIGNESWARAN (TSV),56,Male,Indian,BARISAN NASIONAL (BN),19791,0,Lost
+Kesavan A/L Subramaniam,P.062 Sungai Siput,Perak,4,S. KESAVAN,50,Male,Indian,PAKATAN HARAPAN (PH),21637,1,Won
+Ahmad Fauzi Bin Mohd Jaafar,P.062 Sungai Siput,Perak,5,AHMAD FAUZI BIN MOHD JAAFAR,49,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),784,0,Lost deposit
+Rajah A/L Narasaim,P.062 Sungai Siput,Perak,6,RAJAH A/L NARASAIM,57,Male,Indian,BEBAS (BEBAS),35,0,Lost deposit
+Irudianathan A/L Gabriel,P.062 Sungai Siput,Perak,7,DATO SRI IRUDIANATHAN,56,Male,Indian,PERIKATAN NASIONAL (PN),8190,0,Lost
+Anwar Bin Ibrahim,P.063 Tambun,Perak,1,ANWAR IBRAHIM,75,Male,Bumiputera,PAKATAN HARAPAN (PH),49625,1,Won
+Aminuddin Bin Md Hanafiah,P.063 Tambun,Perak,2,AMINUDDIN HANAFIAH,58,Male,Bumiputera,BARISAN NASIONAL (BN),28140,0,Lost
+Abdul Rahim Bin Tahir,P.063 Tambun,Perak,3,ABDUL RAHIM TAHIR,NULL,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),1115,0,Lost deposit
+Ahmad Faizal Bin Azumu,P.063 Tambun,Perak,4,AHMAD FAIZAL AZUMU @ PEJA,52,Male,Bumiputera,PERIKATAN NASIONAL (PN),45889,0,Lost
+Nor Afzainizam Bin Salleh,P.064 Ipoh Timor,Perak,1,NOR AFZAINIZAM BIN SALLEH,47,Male,Bumiputera,PERIKATAN NASIONAL (PN),13661,0,Lost
+Ng Kai Cheong,P.064 Ipoh Timor,Perak,2,NG KAI CHEONG,38,Male,Chinese,BARISAN NASIONAL (BN),8570,0,Lost deposit
+Lee Chuan How,P.064 Ipoh Timor,Perak,3,HOWARD LEE CHUAN HOW,39,Male,Chinese,PAKATAN HARAPAN (PH),57549,1,Won
+Low Guo Nan,P.065 Ipoh Barat,Perak,1,AH NAN,39,Male,Chinese,BARISAN NASIONAL (BN),7248,0,Lost deposit
+M.Kulasegaran A/L V.Murugeson,P.065 Ipoh Barat,Perak,2,M. KULA,65,Male,Indian,PAKATAN HARAPAN (PH),63915,1,Won
+Chek Kwong Weng,P.065 Ipoh Barat,Perak,3,CHEK KWONG WENG,46,Male,Chinese,PERIKATAN NASIONAL (PN),6815,0,Lost deposit
+M. Kayveas,P.065 Ipoh Barat,Perak,4,TAN SRI M KAYVEAS,68,Male,Indian,BEBAS (BEBAS),378,0,Lost deposit
+Teoh Chin Chong,P.066 Batu Gajah,Perak,1,TEOH CHIN CHONG,63,Male,Chinese,BARISAN NASIONAL (BN),6793,0,Lost deposit
+Sivakumar A/L Varatharaju Naidu,P.066 Batu Gajah,Perak,2,V. SIVAKUMAR,51,Male,Indian,PAKATAN HARAPAN (PH),60999,1,Won
+Woo Cheong Yuen,P.066 Batu Gajah,Perak,3,WOO CHEONG YUEN,49,Male,Chinese,PERIKATAN NASIONAL (PN),7163,0,Lost deposit
+Iskandar Dzulkarnain Bin Abdul Khalid,P.067 Kuala Kangsar,Perak,1,ISKANDAR DZULKARNAIN,46,Male,Bumiputera,PERIKATAN NASIONAL (PN),14380,1,Won
+Maslin Sham Bin Razman,P.067 Kuala Kangsar,Perak,2,MASLIN SHAM BIN RAZMAN,53,Male,Bumiputera,BARISAN NASIONAL (BN),10814,0,Lost
+Yusmalia Bt Mohamad Yusof,P.067 Kuala Kangsar,Perak,3,DR YUSMALIA BT MOHAMAD YUSOF,39,Female,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),204,0,Lost deposit
+Ahmad Termizi Bin Ramli,P.067 Kuala Kangsar,Perak,4,DR. AHMAD TERMIZI RAMLI,68,Male,Bumiputera,PAKATAN HARAPAN (PH),10356,0,Lost
+Ngeh Koo Ham,P.068 Beruas,Perak,1,DATO' NGEH KOO HAM,61,Male,Chinese,PAKATAN HARAPAN (PH),46710,1,Won
+Ong Kean Sing,P.068 Beruas,Perak,2,IR. ONG KEAN SING,43,Male,Chinese,PERIKATAN NASIONAL (PN),12739,0,Lost
+Ding Siew Chee,P.068 Beruas,Perak,3,DING SIEW CHEE,55,Male,Bumiputera,BARISAN NASIONAL (BN),12724,0,Lost
+Muhammad Ismi Bin Mat Taib,P.069 Parit,Perak,1,USTAZ ISMI,48,Male,Bumiputera,PERIKATAN NASIONAL (PN),17181,1,Won
+Nurthaqaffah Binti Nordin,P.069 Parit,Perak,2,NURTHAQAFFAH NORDIN,30,Female,Bumiputera,PAKATAN HARAPAN (PH),5063,0,Lost
+Mohd Nizar Bin Zakaria,P.069 Parit,Perak,3,DATO' NIZAR,53,Male,Bumiputera,BARISAN NASIONAL (BN),15026,0,Lost
+Faizol Fadzli Bin Mohamed,P.069 Parit,Perak,4,DR. FAIZOL FADZLI,55,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),275,0,Lost deposit
+Lee Chee Leong,P.070 Kampar,Perak,1,LEE CHEE LEONG,65,Male,Chinese,BARISAN NASIONAL (BN),16137,0,Lost
+Wong Oi Foon,P.070 Kampar,Perak,2,JANICE WONG,32,Female,Chinese,PERIKATAN NASIONAL (PN),12127,0,Lost
+Chong Zhemin,P.070 Kampar,Perak,3,CHONG ZHEMIN,37,Male,Chinese,PAKATAN HARAPAN (PH),30467,1,Won
+Leong Cheok Lung,P.070 Kampar,Perak,4,LEONG CHEOK LUNG,44,Male,Chinese,PARTI WARISAN SABAH (WARISAN),655,0,Lost deposit
+Muhammad Farhan Bin Abdul Rahim,P.071 Gopeng,Perak,1,MUHAMMAD FARHAN BIN ABDUL RAHIM,34,Male,Bumiputera,PERIKATAN NASIONAL (PN),28732,0,Lost
+Ting Zhao Song,P.071 Gopeng,Perak,2,CALLY TING,32,Female,Chinese,BARISAN NASIONAL (BN),18393,0,Lost
+Tan Kar Hing,P.071 Gopeng,Perak,3,TAN KAR HING,40,Male,Chinese,PAKATAN HARAPAN (PH),55880,1,Won
+Balachandran A/L Gopal,P.071 Gopeng,Perak,4,BALACHANDRAN A/L GOPAL,45,Male,Indian,PARTI WARISAN SABAH (WARISAN),633,0,Lost deposit
+Saraswathy A/P Kandasami,P.072 Tapah,Perak,1,SARASWATHY KANDASAMI,54,Female,Indian,PAKATAN HARAPAN (PH),13334,0,Lost
+Muhammad Yadzan Bin Mohammad,P.072 Tapah,Perak,2,DATUK HAJI MUHAMMAD YADZAN BIN HAJI MOHAMMAD,56,Male,Bumiputera,PERIKATAN NASIONAL (PN),12115,0,Lost
+Mohamed Akbar Sherrif Ali Bin Yasin,P.072 Tapah,Perak,3,MOHAMED AKBAR B. YASIN,60,Male,Bumiputera,PARTI WARISAN SABAH (WARISAN),200,0,Lost deposit
+Saravanan A/L Murugan,P.072 Tapah,Perak,4,DATUK SERI M. SARAVANAN,54,Male,Indian,BARISAN NASIONAL (BN),18398,1,Won
+Kathiravan A/L Murugan,P.072 Tapah,Perak,5,M. KATHIRAVAN,31,Male,Indian,BEBAS (BEBAS),99,0,Lost deposit
+Mior Nor Haidir Bin Suhaimi,P.072 Tapah,Perak,6,MIOR HAIDIR,43,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),335,0,Lost deposit
+Zairol Hizam Bin Zakaria,P.073 Pasir Salak,Perak,1,ZAIROL HIZAM BIN ZAKARIA,49,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),539,0,Lost deposit
+Nik Omar Bin Nik Ab Aziz,P.073 Pasir Salak,Perak,2,USTAZ NIK OMAR,57,Male,Bumiputera,PAKATAN HARAPAN (PH),11693,0,Lost
+Jamaludin Bin Yahya,P.073 Pasir Salak,Perak,3,USTAZ JAMALUDIN BIN YAHYA,51,Male,Bumiputera,PERIKATAN NASIONAL (PN),24897,1,Won
+Khairul Azwan Bin Harun,P.073 Pasir Salak,Perak,4,KHAIRUL AZWAN HARUN,46,Male,Bumiputera,BARISAN NASIONAL (BN),19894,0,Lost
+Zambry Bin Abd Kadir,P.074 Lumut,Perak,1,DR ZAMBRY ABD KADIR,60,Male,Bumiputera,BARISAN NASIONAL (BN),24849,0,Lost
+Mohd Hatta Bin Md Ramli,P.074 Lumut,Perak,2,DR HATTA RAMLI,66,Male,Bumiputera,PAKATAN HARAPAN (PH),20358,0,Lost
+Nordin Bin Ahmad Ismail,P.074 Lumut,Perak,3,KOMANDER (B) NORDIN,57,Male,Bumiputera,PERIKATAN NASIONAL (PN),25212,1,Won
+Mohd Isnin Bin Ismail @ Ibrahim Khan,P.074 Lumut,Perak,4,KOMANDER ISNIN,56,Male,Bumiputera,PARTI WARISAN SABAH (WARISAN),358,0,Lost deposit
+Mazlan Bin Abdul Ghani,P.074 Lumut,Perak,5,MAZLAN ABD GHANI,NULL,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),385,0,Lost deposit
+Mohamed Tawfik Bin Ismail,P.075 Bagan Datuk,Perak,1,TAWFIK TUN DR ISMAIL,71,Male,Bumiputera,BEBAS (BEBAS),226,0,Lost deposit
+Muhammad Faiz Bin Na'Aman,P.075 Bagan Datuk,Perak,2,DR. FAIZ NA'AMAN,38,Male,Bumiputera,PERIKATAN NASIONAL (PN),8822,0,Lost
+Shamsul Iskandar @ Yusre Bin Mohd Akin,P.075 Bagan Datuk,Perak,3,DATUK SERI HAJI SHAMSUL ISKANDAR,47,Male,Bumiputera,PAKATAN HARAPAN (PH),16230,0,Lost
+Ahmad Zahid Bin Hamidi,P.075 Bagan Datuk,Perak,4,ZAHID HAMIDI,69,Male,Bumiputera,BARISAN NASIONAL (BN),16578,1,Won
+Nga Kor Ming,P.076 Teluk Intan,Perak,1,NGA KOR MING,50,Male,Chinese,PAKATAN HARAPAN (PH),33133,1,Won
+Murugiah A/L Thopasamy,P.076 Teluk Intan,Perak,2,DATO T. MURUGIAH,59,Male,Indian,BARISAN NASIONAL (BN),12304,0,Lost
+Amir Khusyairi Bin Mohamad Tanusi,P.076 Teluk Intan,Perak,3,AMIR KHUSYAIRI,39,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),793,0,Lost deposit
+Zainol Fadzi Bin Paharudin,P.076 Teluk Intan,Perak,4,ZAINOL FADZI PAHARUDIN,56,Male,Bumiputera,PERIKATAN NASIONAL (PN),17964,0,Lost
+Jamaluddin Bin Mohd.Radzi,P.077 Tanjong Malim,Perak,1,DATUK JAMALUDDIN BIN MOHD. RADZI,66,Male,Bumiputera,BEBAS (BEBAS),1032,0,Lost deposit
+Mohd Nor Izzat Bin Mohd Johari,P.077 Tanjong Malim,Perak,2,CIKGU IZZAT JOHARI,37,Male,Bumiputera,BEBAS (BEBAS),328,0,Lost deposit
+Chang Lih Kang,P.077 Tanjong Malim,Perak,3,CHANG LIH KANG,42,Male,Chinese,PAKATAN HARAPAN (PH),25140,1,Won
+Mah Hang Soon,P.077 Tanjong Malim,Perak,4,DR MAH HANG SOON,57,Male,Chinese,BARISAN NASIONAL (BN),20963,0,Lost
+Nolee Ashilin Binti Mohammed Radzi,P.077 Tanjong Malim,Perak,5,NOLEE RADZI,47,Female,Bumiputera,PERIKATAN NASIONAL (PN),21599,0,Lost
+Amir Hamzah Bin Abdul Rajak,P.077 Tanjong Malim,Perak,6,DR AMIR HAMZAH,50,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),609,0,Lost deposit
+Ramli Bin Mohd Nor,P.078 Cameron Highlands,Pahang,1,DATO' RAMLI BIN MOHD NOR,64,Male,Bumiputera,BARISAN NASIONAL (BN),16120,1,Won
+Abdul Rasid Bin Mohamed Ali,P.078 Cameron Highlands,Pahang,2,DR.ABDUL RASID,57,Male,Bumiputera,PERIKATAN NASIONAL (PN),5569,0,Lost
+Chiong Yoke Kong,P.078 Cameron Highlands,Pahang,3,CHIONG YOKE KONG,39,Male,Chinese,PAKATAN HARAPAN (PH),11576,0,Lost
+Mohamad Shahrum Bin Osman,P.079 Lipis,Pahang,1,DATO' SHAHRUM,69,Male,Bumiputera,PERIKATAN NASIONAL (PN),11554,0,Lost
+Aishaton Binti Abu Bakar,P.079 Lipis,Pahang,2,AISHATON BINTI ABU BAKAR,46,Female,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),263,0,Lost deposit
+Tengku Zulpuri Shah Bin Raja Puji,P.079 Lipis,Pahang,3,TENGKU ZULPURI SHAH BIN RAJA PUJI,58,Male,Bumiputera,PAKATAN HARAPAN (PH),6366,0,Lost
+Abdul Rahman Bin Mohamad,P.079 Lipis,Pahang,4,DATO SRI ABDUL RAHMAN BIN MOHAMAD,60,Male,Bumiputera,BARISAN NASIONAL (BN),17672,1,Won
+Chow Yu Hui,P.080 Raub,Pahang,1,CHOW YU HUI,39,Male,Chinese,PAKATAN HARAPAN (PH),21613,1,Won
+Norkhairul Anuar Bin Mohamed Nor,P.080 Raub,Pahang,2,NORKHAIRUL ANUAR BIN MOHAMED NOR,34,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),427,0,Lost deposit
+Chong Sin Woon,P.080 Raub,Pahang,3,CHONG SIN WOON,47,Male,Chinese,BARISAN NASIONAL (BN),16939,0,Lost
+Mohd Fakrunizam Bin Ibrahim,P.080 Raub,Pahang,4,DATO FAKRUNIZAM IBRAHIM,41,Male,Bumiputera,PERIKATAN NASIONAL (PN),17256,0,Lost
+Hassan Basri Bin Awang Mat Dahan,P.081 Jerantut,Pahang,1,DATO' DR HASSAN BASRI BIN AWANG MAT DAHAN,60,Male,Bumiputera,PAKATAN HARAPAN (PH),11444,0,Lost
+Mohd Zukarmi Bin Abu Bakar,P.081 Jerantut,Pahang,2,DATO' MOHD ZUKARMI,60,Male,Bumiputera,BARISAN NASIONAL (BN),23609,0,Lost
+Khairil Nizam Bin Khirudin,P.081 Jerantut,Pahang,3,IR. HAJI KHAIRIL,43,Male,Bumiputera,PERIKATAN NASIONAL (PN),31701,1,Won
+Mohamad Nor Bin Sundari,P.082 Indera Mahkota,Pahang,1,DR. MOHAMAD NOR BIN SUNDARI,58,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),1864,0,Lost deposit
+Saifuddin Bin Abdullah,P.082 Indera Mahkota,Pahang,2,DATO' SRI SAIFUDDIN ABDULLAH,61,Male,Bumiputera,PERIKATAN NASIONAL (PN),41692,1,Won
+Zuraidi Bin Ismail,P.082 Indera Mahkota,Pahang,3,HAJI ZURAIDI ISMAIL,56,Male,Bumiputera,PAKATAN HARAPAN (PH),33293,0,Lost
+Quek Tai Seong,P.082 Indera Mahkota,Pahang,4,DATO' QUEK TAI SEONG,43,Male,Bumiputera,BARISAN NASIONAL (BN),16530,0,Lost
+Ab Hamid Bin Mohd Nazahar,P.083 Kuantan,Pahang,1,DATO' SRI AB HAMID BIN MOHD NAZAHAR,58,Male,Bumiputera,BARISAN NASIONAL (BN),19114,0,Lost
+Fuziah Binti Salleh,P.083 Kuantan,Pahang,2,FUZIAH SALLEH,63,Female,Bumiputera,PAKATAN HARAPAN (PH),22648,0,Lost
+Wan Razali Bin Wan Nor,P.083 Kuantan,Pahang,3,WAN RAZALI WAN NOR,41,Male,Bumiputera,PERIKATAN NASIONAL (PN),25514,1,Won
+Anuar Bin Mohd Tajuddin,P.083 Kuantan,Pahang,4,MEJAR ANUAR TAJUDDIN (B),50,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),486,0,Lost deposit
+Aireroshairi Bin Roslan,P.084 Paya Besar,Pahang,1,USTAZ AIRE ROSLAN,40,Male,Bumiputera,PERIKATAN NASIONAL (PN),25582,0,Lost
+Rosminahar Bin Mohd Amin,P.084 Paya Besar,Pahang,2,IR. ROSMINAHAR,62,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),310,0,Lost deposit
+Ahmad Azam Bin Mohamad Salleh,P.084 Paya Besar,Pahang,3,AHMAD AZAM,62,Male,Bumiputera,PAKATAN HARAPAN (PH),9192,0,Lost
+Mohd Shahar Bin Abdullah,P.084 Paya Besar,Pahang,4,DATO' INDERA MOHD SHAHAR BIN ABDULLAH,42,Male,Bumiputera,BARISAN NASIONAL (BN),26899,1,Won
+Sh Mohmed Puzi Bin Sh Ali,P.085 Pekan,Pahang,1,SH MOHMED PUZI BIN SH ALI,65,Male,Bumiputera,BARISAN NASIONAL (BN),47418,1,Won
+Mohd Naim Bin Zainal Abidin,P.085 Pekan,Pahang,2,MOHD NAIM ZAINAL ABIDIN,56,Male,Bumiputera,PAKATAN HARAPAN (PH),6316,0,Lost deposit
+Tengku Zainul Hisham Bin Tengku Hussin,P.085 Pekan,Pahang,3,TENGKU DATO' HISHAM,66,Male,Bumiputera,BEBAS (BEBAS),366,0,Lost deposit
+Mohammad Radhi Bin Abdul Razak,P.085 Pekan,Pahang,4,DATO' RADHI ABDUL RAZAK,60,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),472,0,Lost deposit
+Mohd Fadhil Noor Bin Abdul Karim,P.085 Pekan,Pahang,5,USTAZ MOHD FADHIL NOOR,43,Male,Bumiputera,PERIKATAN NASIONAL (PN),38469,0,Lost
+Muhamad Hafiz Bin Ishak,P.086 Maran,Pahang,1,MUHAMAD HAFIZ AL-HAFIZ,34,Male,Bumiputera,BEBAS (BEBAS),166,0,Lost deposit
+Shahaniza Bt Shamsuddin,P.086 Maran,Pahang,2,SHAHANIZA SHAMSUDDIN,52,Female,Bumiputera,BARISAN NASIONAL (BN),17779,0,Lost
+Ismail Bin Abd. Muttalib,P.086 Maran,Pahang,3,DATO SRI DR HJ ISMAIL B HJ ABD MUTTALIB,68,Male,Bumiputera,PERIKATAN NASIONAL (PN),19600,1,Won
+Ahmad Shuhor Bin Awang,P.086 Maran,Pahang,4,AHMAD SHUHOR,58,Male,Bumiputera,PAKATAN HARAPAN (PH),3547,0,Lost deposit
+Ismail Bin Mohamed Said,P.087 Kuala Krau,Pahang,1,DATO' SRI DR HAJI ISMAIL BIN MOHAMED SAID,57,Male,Bumiputera,BARISAN NASIONAL (BN),21481,0,Lost
+Kamal Bin Ashaari,P.087 Kuala Krau,Pahang,2,USTAZ HAJI KAMAL BIN ASHAARI,52,Male,Bumiputera,PERIKATAN NASIONAL (PN),22505,1,Won
+Juhari Bin Osman,P.087 Kuala Krau,Pahang,3,JUHARI OSMAN,56,Male,Bumiputera,PAKATAN HARAPAN (PH),3593,0,Lost deposit
+Shahruddin Bin Mohamed Salleh,P.087 Kuala Krau,Pahang,4,SHAHRUDDIN MOHAMED SALLEH,61,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),174,0,Lost deposit
+Mohd Sharkar Bin Shamsudin,P.088 Temerloh,Pahang,1,DATO' SRI HJ MOHD SHARKAR BIN HJ SHAMSUDIN,60,Male,Bumiputera,BARISAN NASIONAL (BN),25191,0,Lost
+Salamiah Binti Mohd Nor,P.088 Temerloh,Pahang,2,HJH SALAMIAH MOHD NOR,58,Female,Bumiputera,PERIKATAN NASIONAL (PN),30929,1,Won
+Mohd Hasbie Bin Muda,P.088 Temerloh,Pahang,3,HASBIE MUDA,35,Male,Bumiputera,PAKATAN HARAPAN (PH),25409,0,Lost
+Aminuddin Bin Yahaya,P.088 Temerloh,Pahang,4,AMINUDDIN BIN YAHAYA,59,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),1108,0,Lost deposit
+Mohd Khalil Bin Abdul Hamid,P.089 Bentong,Pahang,1,ACHIK KHALIL,58,Male,Bumiputera,BEBAS (BEBAS),168,0,Lost deposit
+Young Syefura Binti Othman,P.089 Bentong,Pahang,2,YOUNG SYEFURA BINTI OTHMAN,33,Female,Bumiputera,PAKATAN HARAPAN (PH),25075,1,Won
+Liow Tiong Lai,P.089 Bentong,Pahang,3,TAN SRI LIOW TIONG LAI,61,Male,Chinese,BARISAN NASIONAL (BN),24383,0,Lost
+Roslan Bin Hassan,P.089 Bentong,Pahang,4,DATUK ROSLAN HASSAN,NULL,Male,Bumiputera,PERIKATAN NASIONAL (PN),16233,0,Lost
+Wong Tack,P.089 Bentong,Pahang,5,WONG TACK,63,Male,Chinese,BEBAS (BEBAS),798,0,Lost deposit
+Asmawi Bin Harun,P.090 Bera,Pahang,1,DATO ASMAWI,45,Male,Bumiputera,PERIKATAN NASIONAL (PN),12719,0,Lost
+Ismail Sabri Bin Yaakob,P.090 Bera,Pahang,2,ISMAIL SABRI BIN YAAKOB,62,Male,Bumiputera,BARISAN NASIONAL (BN),31762,1,Won
+Abas Bin Awang,P.090 Bera,Pahang,3,HAJI ABAS BIN AWANG,71,Male,Bumiputera,PAKATAN HARAPAN (PH),15067,0,Lost
+Hamizi Bin Hussain,P.091 Rompin,Pahang,1,HAMIZI BIN HUSSAIN,56,Male,Bumiputera,BEBAS (BEBAS),408,0,Lost deposit
+Hasan Bin Arifin,P.091 Rompin,Pahang,2,DATO' SRI HAJI HASAN BIN ARIFIN,69,Male,Bumiputera,BARISAN NASIONAL (BN),30151,0,Lost
+Abdul Khalib Bin Abdullah,P.091 Rompin,Pahang,3,DATO' KHALIB,63,Male,Bumiputera,PERIKATAN NASIONAL (PN),31589,1,Won
+Erman Shah Bin Jaios,P.091 Rompin,Pahang,4,ERMAN SHAH,43,Male,Bumiputera,PAKATAN HARAPAN (PH),4779,0,Lost deposit
+Idris Bin Md Yusof,P.092 Sabak Bernam,Selangor,1,DATO' SRI EIZLAN YUSOF,51,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),460,0,Lost deposit
+Abd. Rahman Bin Bakri,P.092 Sabak Bernam,Selangor,2,ABD RAHMAN BIN BAKRI,57,Male,Bumiputera,BARISAN NASIONAL (BN),12917,0,Lost
+Kalam Bin Salan,P.092 Sabak Bernam,Selangor,3,CIKGU KALAM BIN SALAN,57,Male,Bumiputera,PERIKATAN NASIONAL (PN),17973,1,Won
+Shamsul Ma'Arif Bin Ismail,P.092 Sabak Bernam,Selangor,4,HJ. SHAMSUL MA'ARIF ISMAIL,58,Male,Bumiputera,PAKATAN HARAPAN (PH),9627,0,Lost
+Jamal Bin Md Yunos,P.093 Sungai Besar,Selangor,1,DATO' SRI JAMAL YUNOS,52,Male,Bumiputera,BARISAN NASIONAL (BN),13984,0,Lost
+Asmawar Bin Samat@Samad,P.093 Sungai Besar,Selangor,2,DATO' ASMAWAR BIN SAMAT,67,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),225,0,Lost deposit
+Muslimin Bin Yahaya,P.093 Sungai Besar,Selangor,3,CIKGU MUSLIMIN YAHAYA,55,Male,Bumiputera,PERIKATAN NASIONAL (PN),19791,1,Won
+Saipolyazan Bin Mat Yusop,P.093 Sungai Besar,Selangor,4,HJ SAIPOLYAZAN M YUSOP,52,Male,Bumiputera,PAKATAN HARAPAN (PH),17070,0,Lost
+Azlinda Binti Baroni,P.094 Hulu Selangor,Selangor,1,AZLINDA BINTI BARONI,58,Female,Bumiputera,BEBAS (BEBAS),446,0,Lost deposit
+Mohan A/L Thangarasu,P.094 Hulu Selangor,Selangor,2,DATUK T.MOHAN,49,Male,Indian,BARISAN NASIONAL (BN),27050,0,Lost
+Harumaini Bin Haji Omar,P.094 Hulu Selangor,Selangor,3,HARUMAINI BIN HAJI OMAR,64,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),1849,0,Lost deposit
+Sathia Prakash A/L C. Nadarajan,P.094 Hulu Selangor,Selangor,4,DR. SATHIA PRAKASH NADARAJAN,45,Male,Indian,PAKATAN HARAPAN (PH),45261,0,Lost
+Haniza Binti Mohamed Talha,P.094 Hulu Selangor,Selangor,5,HANIZA TALHA,60,Female,Bumiputera,PARTI BANGSA MALAYSIA (PBM),1013,0,Lost deposit
+Mohd Hasnizan Bin Harun,P.094 Hulu Selangor,Selangor,6,HASNIZAN HARUN,52,Male,Bumiputera,PERIKATAN NASIONAL (PN),46823,1,Won
+Azlan Sani Bin Zawawi,P.095 Tanjong Karang,Selangor,1,LANDO BROTHERHOOD,47,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),3557,0,Lost deposit
+Mohd Rosni Bin Mastol,P.095 Tanjong Karang,Selangor,2,MOHD ROSNI,59,Male,Bumiputera,BEBAS (BEBAS),1406,0,Lost deposit
+Zulkafperi Bin Hanapi,P.095 Tanjong Karang,Selangor,3,KAPT (B) DATO DR ZULKAFPERI,63,Male,Bumiputera,PERIKATAN NASIONAL (PN),18054,1,Won
+Siti Rahayu Binti Baharin,P.095 Tanjong Karang,Selangor,4,CIKGU RAHAYU,38,Female,Bumiputera,IKATAN DEMOKRATIK MALAYSIA (MUDA),12314,0,Lost
+Habibah Binti Mohd Yusof,P.095 Tanjong Karang,Selangor,5,DATO' HJH. HABIBAH,52,Female,Bumiputera,BARISAN NASIONAL (BN),15874,0,Lost
+Tengku Zafrul Bin Tengku Abdul Aziz,P.096 Kuala Selangor,Selangor,1,TENGKU ZAFRUL AZIZ,49,Male,Bumiputera,BARISAN NASIONAL (BN),30031,0,Lost
+Mohd Shaid Bin Rosli,P.096 Kuala Selangor,Selangor,2,YB SHAID ROSLI,40,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),1778,0,Lost deposit
+Dzulkefly Bin Ahmad,P.096 Kuala Selangor,Selangor,3,DS DR DZULKEFLY BIN AHMAD,66,Male,Bumiputera,PAKATAN HARAPAN (PH),31033,1,Won
+Mohd Noor Bin Mohd Shahar,P.096 Kuala Selangor,Selangor,4,USTAZ MOHD NOOR SHAHAR,46,Male,Bumiputera,PERIKATAN NASIONAL (PN),23639,0,Lost
+Abdul Rashid Bin Asari,P.097 Selayang,Selangor,1,DATUK ABDUL RASHID ASARI,71,Male,Bumiputera,PERIKATAN NASIONAL (PN),49154,0,Lost
+Chan Wun Hoong,P.097 Selayang,Selangor,2,CHAN WUN HOONG,43,Male,Chinese,BARISAN NASIONAL (BN),19425,0,Lost
+Sallehudin Bin Amiruddin,P.097 Selayang,Selangor,3,SALLEH AMIRUDDIN,59,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),2584,0,Lost deposit
+Muhammad Zaki Bin Omar,P.097 Selayang,Selangor,4,MUHAMMAD ZAKI BIN OMAR,NULL,Male,Bumiputera,BEBAS (BEBAS),945,0,Lost deposit
+William Leong Jee Keen,P.097 Selayang,Selangor,5,WILLIAM LEONG JEE KEEN,65,Male,Chinese,PAKATAN HARAPAN (PH),72773,1,Won
+Mohamed Azmin Bin Ali,P.098 Gombak,Selangor,1,DATO' SERI AZMIN ALI,58,Male,Bumiputera,PERIKATAN NASIONAL (PN),59538,0,Lost
+Amirudin Bin Shari,P.098 Gombak,Selangor,2,AMIRUDIN SHARI,42,Male,Bumiputera,PAKATAN HARAPAN (PH),72267,1,Won
+Aziz Jamaludin Bin Hj Mhd Tahir,P.098 Gombak,Selangor,3,DATUK DR. AZIZ JAMALUDIN,68,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),2223,0,Lost deposit
+Zulkifli Bin Ahmad,P.098 Gombak,Selangor,4,IR HJ ZULKIFLI,NULL,Male,Bumiputera,BEBAS (BEBAS),675,0,Lost deposit
+Megat Zulkarnain Bin Omardin,P.098 Gombak,Selangor,5,MEGAT ZULKARNAIN BIN OMARDIN,53,Male,Bumiputera,BARISAN NASIONAL (BN),30723,0,Lost
+Rodziah Binti Ismail,P.099 Ampang,Selangor,1,RODZIAH ISMAIL,58,Female,Bumiputera,PAKATAN HARAPAN (PH),56754,1,Won
+Ivone Low Yi Wen,P.099 Ampang,Selangor,2,IVONE LOW YI WEN,29,Female,Chinese,BARISAN NASIONAL (BN),11509,0,Lost deposit
+Raveendran A/L Marnokaran,P.099 Ampang,Selangor,3,M.RAVEEN,38,Male,Indian,BEBAS (BEBAS),148,0,Lost deposit
+Zuraida Binti Kamaruddin,P.099 Ampang,Selangor,4,ZURAIDA BINTI KAMARUDDIN,64,Female,Bumiputera,PARTI BANGSA MALAYSIA (PBM),4589,0,Lost deposit
+Nurul Ashikin Bte Mabahwi,P.099 Ampang,Selangor,5,DR. NURUL ASHIKIN,33,Female,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),2653,0,Lost deposit
+Lai Wai Chong,P.099 Ampang,Selangor,6,BRYAN LAI,48,Male,Chinese,PARTI WARISAN SABAH (WARISAN),1423,0,Lost deposit
+Sasha Lyna Binti Abdul Latif,P.099 Ampang,Selangor,7,SASHA LYNA,39,Female,Bumiputera,PERIKATAN NASIONAL (PN),27073,0,Lost
+Muhammad Shafiq Izwan Bin Mohd Yunos,P.099 Ampang,Selangor,8,MUHAMMAD SHAFIQ IZWAN BIN MOHD YUNOS,33,Male,Bumiputera,BEBAS (BEBAS),188,0,Lost deposit
+Tan Hua Meng,P.099 Ampang,Selangor,9,TAN HUA MENG,64,Male,Chinese,BEBAS (BEBAS),93,0,Lost deposit
+Mohd Rafizi Bin Ramli,P.100 Pandan,Selangor,1,RAFIZI RAMLI,45,Male,Bumiputera,PAKATAN HARAPAN (PH),74002,1,Won
+Ong Tee Keat,P.100 Pandan,Selangor,2,ONG TEE KEAT,66,Male,Chinese,PARTI WARISAN SABAH (WARISAN),3323,0,Lost deposit
+Muhammad Farique Bin Zubir Albakri,P.100 Pandan,Selangor,3,FARIQUE ZUBIR,35,Male,Bumiputera,PERIKATAN NASIONAL (PN),25706,0,Lost
+Nadia Binti Hanafiah,P.100 Pandan,Selangor,4,NADIA HANAFIAH,53,Female,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),961,0,Lost deposit
+Leong Kok Wee,P.100 Pandan,Selangor,5,LEONG KOK WEE,54,Male,Chinese,BARISAN NASIONAL (BN),11664,0,Lost deposit
+Mohd Sany Bin Hamzan,P.101 Hulu Langat,Selangor,1,YB MOHD SANY HAMZAN,45,Male,Bumiputera,PAKATAN HARAPAN (PH),58382,1,Won
+Markiman Bin Kobiran,P.101 Hulu Langat,Selangor,2,DATO HAJI MARKIMAN KOBIRAN,65,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),1655,0,Lost deposit
+Abdul Rahman Bin Jaafar,P.101 Hulu Langat,Selangor,3,DATO' ABDUL RAHMAN BIN JAAFAR,NULL,Male,Bumiputera,PARTI WARISAN SABAH (WARISAN),370,0,Lost deposit
+Johan Bin Abd Aziz,P.101 Hulu Langat,Selangor,4,DATUK WIRA HAJI JOHAN BIN ABD AZIZ,56,Male,Bumiputera,BARISAN NASIONAL (BN),32570,0,Lost
+Mohamed Noortheen Bin Ahamed Mustafa,P.101 Hulu Langat,Selangor,5,DR MOHAMED MUSTAFA,60,Male,Bumiputera,BEBAS (BEBAS),326,0,Lost deposit
+Mohd Radzi Bin Abd Latif,P.101 Hulu Langat,Selangor,6,DATO' DR. MOHD RADZI ABD LATIF,68,Male,Bumiputera,PERIKATAN NASIONAL (PN),43486,0,Lost
+Muhammad Nazrul Hakim Bin Md Nazir,P.102 Bangi,Selangor,1,NAZRUL NAZIR,27,Male,Bumiputera,PERIKATAN NASIONAL (PN),71867,0,Lost
+Jamal Hisham Bin Hashim,P.102 Bangi,Selangor,2,DR. JAMAL,65,Male,Bumiputera,BEBAS (BEBAS),676,0,Lost deposit
+Hoh Hee Lee,P.102 Bangi,Selangor,3,HOH HEE LEE,62,Male,Chinese,BARISAN NASIONAL (BN),25685,0,Lost deposit
+Muhammad Fauzi Bin Hasim,P.102 Bangi,Selangor,4,FAUZI HASIM,36,Male,Bumiputera,BEBAS (BEBAS),401,0,Lost deposit
+Suthan A/L Mookaiah,P.102 Bangi,Selangor,5,ASSOCIATE PROF. SUTHAN M,36,Male,Indian,BEBAS (BEBAS),194,0,Lost deposit
+Chee Chee Meng,P.102 Bangi,Selangor,6,CHEE CHEE MENG,58,Male,Chinese,PARTI RAKYAT MALAYSIA (PRM),752,0,Lost deposit
+Syahredzan Bin Johan,P.102 Bangi,Selangor,7,SYAHREDZAN BIN JOHAN,39,Male,Bumiputera,PAKATAN HARAPAN (PH),141568,1,Won
+Annuar Bin Salleh,P.102 Bangi,Selangor,8,USTAZ ANNUAR BIN SALLEH,NULL,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),3148,0,Lost deposit
+Yeo Bee Yin,P.103 Puchong,Selangor,1,YEO BEE YIN,39,Female,Chinese,PAKATAN HARAPAN (PH),79425,1,Won
+Kuan Chee Heng,P.103 Puchong,Selangor,2,UNCLE KENTANG,59,Male,Chinese,BEBAS (BEBAS),1793,0,Lost deposit
+Syed Ibrahim Bin Kader,P.103 Puchong,Selangor,3,DATUK SERI HAJI SYED IBRAHIM,68,Male,Bumiputera,BARISAN NASIONAL (BN),21468,0,Lost
+Chew Jyh Gang,P.103 Puchong,Selangor,4,JIMMY CHEW JYH GANG,53,Male,Chinese,PERIKATAN NASIONAL (PN),18263,0,Lost
+Ang Hiang Ni,P.104 Subang,Selangor,1,ALEX ANG H N,46,Male,Chinese,PERIKATAN NASIONAL (PN),23185,0,Lost
+Kow Cheong Wei,P.104 Subang,Selangor,2,DR KOW,56,Male,Chinese,BARISAN NASIONAL (BN),16539,0,Lost deposit
+Wong Chen,P.104 Subang,Selangor,3,WONG CHEN,53,Male,Chinese,PAKATAN HARAPAN (PH),138259,1,Won
+Mohamad Ezam Bin Mohd Nor,P.105 Petaling Jaya,Selangor,1,DATUK EZAM MOHD NOR,55,Male,Bumiputera,PARTI RAKYAT MALAYSIA (PRM),2049,0,Lost deposit
+K.J. John A/L Joan Kuruvilla,P.105 Petaling Jaya,Selangor,2,DR. K. J. JOHN,72,Male,Indian,BEBAS (BEBAS),461,0,Lost deposit
+Chew Hian Tat,P.105 Petaling Jaya,Selangor,3,CHEW HIAN TAT,48,Male,Chinese,BARISAN NASIONAL (BN),23253,0,Lost
+Mazween Binti Mokhtar,P.105 Petaling Jaya,Selangor,4,MAZWEEN MOKHTAR,44,Female,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),4052,0,Lost deposit
+Theng Book,P.105 Petaling Jaya,Selangor,5,DATO THENG BOOK,62,Male,Chinese,PERIKATAN NASIONAL (PN),32736,0,Lost
+Lee Chean Chung,P.105 Petaling Jaya,Selangor,6,LEE CHEAN CHUNG,41,Male,Chinese,PAKATAN HARAPAN (PH),83311,1,Won
+Gobind Singh Deo,P.106 Damansara,Selangor,1,GOBIND SINGH DEO,49,Male,Other,PAKATAN HARAPAN (PH),142875,1,Won
+Lim Si Ching,P.106 Damansara,Selangor,2,LIM SI CHING,30,Male,Chinese,PERIKATAN NASIONAL (PN),18256,0,Lost deposit
+Tan Gim Tuan,P.106 Damansara,Selangor,3,TAN GIM TUAN GT,52,Male,Chinese,BARISAN NASIONAL (BN),13806,0,Lost deposit
+Ahmad Jufliz Bin Faiza,P.107 Sungai Buloh,Selangor,1,AHMAD JUFLIZ,NULL,Male,Bumiputera,PARTI RAKYAT MALAYSIA (PRM),279,0,Lost deposit
+Mohd Akmal Bin Mohd Yusoff,P.107 Sungai Buloh,Selangor,2,AKMAL YUSOFF,39,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),829,0,Lost deposit
+Nurhaslinda Binti Basri,P.107 Sungai Buloh,Selangor,3,SIFU LINDA,33,Female,Bumiputera,BEBAS (BEBAS),113,0,Lost deposit
+Khairy Jamaluddin Abu Bakar,P.107 Sungai Buloh,Selangor,4,KHAIRY JAMALUDDIN,46,Male,Bumiputera,BARISAN NASIONAL (BN),48250,0,Lost
+Syed Abdul Razak Bin Syed Long Alsagoff,P.107 Sungai Buloh,Selangor,5,SYED RAZAK ALSAGOFF,62,Male,Bumiputera,BEBAS (BEBAS),165,0,Lost deposit
+Ramanan Ramakrishnan,P.107 Sungai Buloh,Selangor,6,RAMANAN RAMAKRISHNAN,41,Male,Indian,PAKATAN HARAPAN (PH),50943,1,Won
+Mohd Ghazali Bin Md Hamin,P.107 Sungai Buloh,Selangor,7,HJ MOHD GHAZALI BIN MD HAMIN,59,Male,Bumiputera,PERIKATAN NASIONAL (PN),29060,0,Lost
+Azli Bin Yusof,P.108 Shah Alam,Selangor,1,AZLI YUSOF,55,Male,Bumiputera,PAKATAN HARAPAN (PH),61409,1,Won
+Muhammad Rafique Bin Rashid Ali,P.108 Shah Alam,Selangor,2,RAFIQUE RASHID,45,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),2781,0,Lost deposit
+Hizatul Isham Bin Abdul Jalil,P.108 Shah Alam,Selangor,3,ISHAM JALIL,46,Male,Bumiputera,BARISAN NASIONAL (BN),28266,0,Lost
+Afif Bin Bahardin,P.108 Shah Alam,Selangor,4,DR. AFIF BAHARDIN,37,Male,Bumiputera,PERIKATAN NASIONAL (PN),43314,0,Lost
+Muhammad Bin Noor Azman @ Noor Hizam,P.109 Kapar,Selangor,1,MUHAMMAD BIN NOOR AZMAN,30,Male,Bumiputera,BARISAN NASIONAL (BN),35079,0,Lost
+Daroyah Binti Alwi,P.109 Kapar,Selangor,2,DR DAROYAH BINTI ALWI,60,Female,Bumiputera,PARTI BANGSA MALAYSIA (PBM),1474,0,Lost deposit
+Mohd Pathan Bin Hussin,P.109 Kapar,Selangor,3,UST. HJ. MOHD PATHAN BIN HUSSIN,54,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),1015,0,Lost deposit
+Halimah Ali,P.109 Kapar,Selangor,4,DR HALIMAH ALI,62,Female,Bumiputera,PERIKATAN NASIONAL (PN),65751,1,Won
+Rahim Bin Awang,P.109 Kapar,Selangor,5,DATO' SERI RAHIM,NULL,Male,Bumiputera,PARTI WARISAN SABAH (WARISAN),265,0,Lost deposit
+Sevelinggam A/L V Ponniah,P.109 Kapar,Selangor,6,DATO' SRI SIVALINGAM,47,Male,Indian,BEBAS (BEBAS),477,0,Lost deposit
+Abdullah Sani Bin Abdul Hamid,P.109 Kapar,Selangor,7,ABDULLAH SANI,60,Male,Bumiputera,PAKATAN HARAPAN (PH),53969,0,Lost
+Jaya Chandran A/L Perumal,P.110 Klang,Selangor,1,DR JAYA,47,Male,Indian,PERIKATAN NASIONAL (PN),23738,0,Lost
+Mohd Hedrhin Bin Ramli,P.110 Klang,Selangor,2,HEDRHIN RAMLI @ AWIN,43,Male,Bumiputera,BEBAS (BEBAS),3016,0,Lost deposit
+Tee Hooi Ling,P.110 Klang,Selangor,3,TEE HOOI LING,47,Female,Chinese,BARISAN NASIONAL (BN),19762,0,Lost deposit
+Loo Cheng Wee,P.110 Klang,Selangor,4,DR. LOO CHENG WEE,59,Male,Chinese,PARTI WARISAN SABAH (WARISAN),1140,0,Lost deposit
+Chandrasegar A/L Selvarajan,P.110 Klang,Selangor,5,CHANDRASEGAR,38,Male,Indian,PARTI RAKYAT MALAYSIA (PRM),271,0,Lost deposit
+Ganabatirau A/L Veraman,P.110 Klang,Selangor,6,GANABATIRAU A/L VERAMAN,49,Male,Bumiputera,PAKATAN HARAPAN (PH),115539,1,Won
+Deepak Jaikishan A/L Jaikishan Rewachand,P.110 Klang,Selangor,7,DEEPAK JAIKISHAN,50,Male,Indian,BEBAS (BEBAS),439,0,Lost deposit
+Fahmi Bazlan Bin Muda,P.111 Kota Raja,Selangor,1,FAHMI BAZLAN MUDA,35,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),2063,0,Lost deposit
+Mohamed Diah Bin Baharun,P.111 Kota Raja,Selangor,2,HAJI MOHAMED DIAH BAHARUN,57,Male,Bumiputera,PERIKATAN NASIONAL (PN),49308,0,Lost
+Kumar A/L Karananedi,P.111 Kota Raja,Selangor,3,KUMAR KARANANEDI,35,Male,Indian,BEBAS (BEBAS),163,0,Lost deposit
+Kajendran A/L Doraisamy,P.111 Kota Raja,Selangor,4,KAJENDRAN,40,Male,Indian,BARISAN NASIONAL (BN),22225,0,Lost deposit
+Mohamad Bin Sabu,P.111 Kota Raja,Selangor,5,MOHD SABU,68,Male,Bumiputera,PAKATAN HARAPAN (PH),123306,1,Won
+P.Raveentharan A/L A.Periasamy,P.111 Kota Raja,Selangor,6,P.RAVEENTHARAN A/L A.PERIASAMY,59,Male,Indian,BEBAS (BEBAS),209,0,Lost deposit
+Sarah Afiqah Binti Zainol Arif,P.111 Kota Raja,Selangor,7,SARAH AFIQAH,26,Female,Bumiputera,PARTI RAKYAT MALAYSIA (PRM),360,0,Lost deposit
+Surendhar A/L Selvaraju,P.111 Kota Raja,Selangor,8,SURENDHAR SELVARAJU,39,Male,Indian,BEBAS (BEBAS),106,0,Lost deposit
+Zanariah Binti Jumhuri,P.112 Kuala Langat,Selangor,1,HAJAH ZANARIAH JUMHURI,54,Female,Bumiputera,BEBAS (BEBAS),512,0,Lost deposit
+Mohana A/P Muniandy Raman,P.112 Kuala Langat,Selangor,2,MOHANA MUNIANDY,46,Female,Indian,BARISAN NASIONAL (BN),18685,0,Lost
+Mohd Ridzuan Bin Abdullah,P.112 Kuala Langat,Selangor,3,MOHD RIDZUAN ABDULLAH,NULL,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),591,0,Lost deposit
+Ahmad Yunus Bin Hairi,P.112 Kuala Langat,Selangor,4,DR AHMAD YUNUS HAIRI,57,Male,Bumiputera,PERIKATAN NASIONAL (PN),52867,1,Won
+Ganeskumar A/L Murugesu,P.112 Kuala Langat,Selangor,5,GANESKUMAR,40,Male,Indian,PARTI RAKYAT MALAYSIA (PRM),171,0,Lost deposit
+G.Manivannan A/L Gowindasamy,P.112 Kuala Langat,Selangor,6,MANIVANAN GOWIN,47,Male,Indian,PAKATAN HARAPAN (PH),51034,0,Lost
+Mohd Syahrul Amri Bin Mat Sari,P.113 Sepang,Selangor,1,SHAHRUL AMRI MAT SARI,36,Male,Bumiputera,BEBAS (BEBAS),319,0,Lost deposit
+Che Asmah Binti Ibrahim,P.113 Sepang,Selangor,2,CHE ASMAH IBRAHIM,59,Female,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),2337,0,Lost deposit
+Mohd Daud Leong Bin Abdullah,P.113 Sepang,Selangor,3,DAUD LEONG,57,Male,Chinese,PARTI UTAMA RAKYAT (PUR),264,0,Lost deposit
+Raj Munni Binti Sabu,P.113 Sepang,Selangor,4,AIMAN ATHIRAH,50,Female,Bumiputera,PAKATAN HARAPAN (PH),56264,1,Won
+Muneswaran A/L Muthiah,P.113 Sepang,Selangor,5,M. MUNESWARAN,47,Male,Indian,BEBAS (BEBAS),194,0,Lost deposit
+Rina Binti Mohd Harun,P.113 Sepang,Selangor,6,DATUK SERI RINA HARUN,49,Female,Bumiputera,PERIKATAN NASIONAL (PN),47315,0,Lost
+Anuar Bin Basiran,P.113 Sepang,Selangor,7,ANUAR BIN BASIRAN,45,Male,Bumiputera,BARISAN NASIONAL (BN),31097,0,Lost
+Nageswaran A/L Ravi,P.113 Sepang,Selangor,8,NAGESWARAN RAVI,33,Male,Indian,PARTI RAKYAT MALAYSIA (PRM),165,0,Lost deposit
+Phaang Jing Fatt,P.114 Kepong,W.P. Kuala Lumpur,1,PHAANG JING FATT,44,Male,Chinese,PERIKATAN NASIONAL (PN),2795,0,Lost deposit
+Young Shang Yi,P.114 Kepong,W.P. Kuala Lumpur,2,SHAUN YOUNG,35,Male,Chinese,PARTI WARISAN SABAH (WARISAN),528,0,Lost deposit
+Yap Zheng Hoe,P.114 Kepong,W.P. Kuala Lumpur,3,YAP ZHENG HOE,30,Male,Chinese,BARISAN NASIONAL (BN),3227,0,Lost deposit
+Lim Lip Eng,P.114 Kepong,W.P. Kuala Lumpur,4,LIM LIP ENG,50,Male,Chinese,PAKATAN HARAPAN (PH),64308,1,Won
+Yee Poh Ping,P.114 Kepong,W.P. Kuala Lumpur,5,YEE POH PING,62,Male,Chinese,BEBAS (BEBAS),1461,0,Lost deposit
+Siti Zabedah Binti Kasim,P.115 Batu,W.P. Kuala Lumpur,1,SITI KASIM,59,Female,Bumiputera,BEBAS (BEBAS),653,0,Lost deposit
+Chua Tian Chang,P.115 Batu,W.P. Kuala Lumpur,2,TIAN CHUA,58,Male,Chinese,BEBAS (BEBAS),4603,0,Lost deposit
+Prabakaran A/L M Parameswaran,P.115 Batu,W.P. Kuala Lumpur,3,PRABAKARAN PARAMESWARAN,26,Male,Indian,PAKATAN HARAPAN (PH),45716,1,Won
+Mohd Zulkifli Bin Abdul Fattah,P.115 Batu,W.P. Kuala Lumpur,4,ZULKIFLI FATTAH,37,Male,Bumiputera,PARTI RAKYAT MALAYSIA (PRM),137,0,Lost deposit
+Too Cheng Huat,P.115 Batu,W.P. Kuala Lumpur,5,TOO GAO LAN,49,Male,Chinese,BEBAS (BEBAS),112,0,Lost deposit
+Wan Azliana Binti Wan Adnan,P.115 Batu,W.P. Kuala Lumpur,6,WAN AZLIANA,46,Female,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),849,0,Lost deposit
+Azhar Bin Yahya,P.115 Batu,W.P. Kuala Lumpur,7,USTAZ AZHAR YAHYA,NULL,Male,Bumiputera,PERIKATAN NASIONAL (PN),23475,0,Lost
+Naganathan Pillai,P.115 Batu,W.P. Kuala Lumpur,8,NATHAN BATU,54,Male,Indian,PARTI WARISAN SABAH (WARISAN),575,0,Lost deposit
+A Kohilan Pillay A/L G Appu,P.115 Batu,W.P. Kuala Lumpur,9,A. KOHILAN PILLAY,55,Male,Indian,BARISAN NASIONAL (BN),10398,0,Lost deposit
+Nur Fathiah Syazwana Binti Shaharuddin,P.115 Batu,W.P. Kuala Lumpur,10,NUR FATHIAH SYAZWANA @ CLEO,28,Female,Bumiputera,BEBAS (BEBAS),628,0,Lost deposit
+Zahir Bin Hassan,P.116 Wangsa Maju,W.P. Kuala Lumpur,1,ZAHIR HASSAN,63,Male,Bumiputera,PAKATAN HARAPAN (PH),46031,1,Won
+Wee Choo Keong,P.116 Wangsa Maju,W.P. Kuala Lumpur,2,WEE CHOO KEONG,69,Male,Chinese,PARTI WARISAN SABAH (WARISAN),576,0,Lost deposit
+Mohd Shafei Bin Abdullah,P.116 Wangsa Maju,W.P. Kuala Lumpur,3,SHAFEI ABDULLAH,64,Male,Bumiputera,BARISAN NASIONAL (BN),19595,0,Lost
+Raveentheran A/L Suntheralingam,P.116 Wangsa Maju,W.P. Kuala Lumpur,4,RAVEE SUNTHERALINGAM,60,Male,Indian,BEBAS (BEBAS),216,0,Lost deposit
+Nuridah Binti Mohd Salleh,P.116 Wangsa Maju,W.P. Kuala Lumpur,5,USTAZAH NURIDAH,61,Female,Bumiputera,PERIKATAN NASIONAL (PN),25335,0,Lost
+Norzaila Binti Arifin,P.116 Wangsa Maju,W.P. Kuala Lumpur,6,NORZAILA,48,Female,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),987,0,Lost deposit
+Prabagaran A/L Vythilingam,P.117 Segambut,W.P. Kuala Lumpur,1,PRABAGARAN,50,Male,Indian,PERIKATAN NASIONAL (PN),8754,0,Lost deposit
+Daniel Ling Sia Chin,P.117 Segambut,W.P. Kuala Lumpur,2,DANIEL LING SIA CHIN,58,Male,Chinese,BARISAN NASIONAL (BN),8304,0,Lost deposit
+Yeoh Tseow Suan,P.117 Segambut,W.P. Kuala Lumpur,3,HANNAH YEOH,43,Female,Chinese,PAKATAN HARAPAN (PH),68438,1,Won
+Nik Nazmi Bin Nik Ahmad,P.118 Setiawangsa,W.P. Kuala Lumpur,1,NIK NAZMI NIK AHMAD,40,Male,Bumiputera,PAKATAN HARAPAN (PH),34434,1,Won
+Bibi Sunita Binti Sakandar Khan,P.118 Setiawangsa,W.P. Kuala Lumpur,2,BIBI SUNITA,52,Female,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),953,0,Lost deposit
+Izudin Bin Ishak,P.118 Setiawangsa,W.P. Kuala Lumpur,3,IZUDIN BIN ISHAK,57,Male,Bumiputera,BARISAN NASIONAL (BN),16333,0,Lost
+Lim Yen Tiong,P.118 Setiawangsa,W.P. Kuala Lumpur,4,STANLEY LIM YEN TIONG,56,Male,Chinese,BEBAS (BEBAS),282,0,Lost deposit
+Mior Rosli Bin Mior Mohd Jaafar,P.118 Setiawangsa,W.P. Kuala Lumpur,5,MEJAR MIOR ROSLI TUDM (B),NULL,Male,Bumiputera,BEBAS (BEBAS),492,0,Lost deposit
+Nurul Fadzilah Binti Kamaluddin,P.118 Setiawangsa,W.P. Kuala Lumpur,6,NURUL FADZILAH BINTI KAMALUDDIN,33,Female,Bumiputera,PERIKATAN NASIONAL (PN),22270,0,Lost
+Rosni Binti Adam,P.119 Titiwangsa,W.P. Kuala Lumpur,1,DR. ROSNI ADAM,NULL,Male,Bumiputera,PERIKATAN NASIONAL (PN),14518,0,Lost
+Khalid Bin Abd Samad,P.119 Titiwangsa,W.P. Kuala Lumpur,2,KHALID ABD SAMAD,65,Male,Bumiputera,PAKATAN HARAPAN (PH),20410,0,Lost
+Khairuddin Bin Abu Hassan,P.119 Titiwangsa,W.P. Kuala Lumpur,3,DATO' SRI KHAIRUDDIN BIN ABU HASSAN,60,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),888,0,Lost deposit
+Johari Bin Abdul Ghani,P.119 Titiwangsa,W.P. Kuala Lumpur,4,DATUK SERI JOHARI GHANI,58,Male,Bumiputera,BARISAN NASIONAL (BN),25042,1,Won
+Chen Win Keong,P.120 Bukit Bintang,W.P. Kuala Lumpur,1,EDWIN CHEN,45,Male,Chinese,PERIKATAN NASIONAL (PN),4259,0,Lost deposit
+Fong Kui Lun,P.120 Bukit Bintang,W.P. Kuala Lumpur,2,FONG KUI LUN,76,Male,Chinese,PAKATAN HARAPAN (PH),43827,1,Won
+Tan Teik Peng,P.120 Bukit Bintang,W.P. Kuala Lumpur,3,TAN TEIK PENG,42,Male,Bumiputera,BARISAN NASIONAL (BN),4850,0,Lost deposit
+Noor Asmah Binti Mohd Razalli,P.121 Lembah Pantai,W.P. Kuala Lumpur,1,DR. ASMAH,58,Female,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),810,0,Lost deposit
+Fauzi Bin Abu Bakar,P.121 Lembah Pantai,W.P. Kuala Lumpur,2,HAJI FAUZI ABU BAKAR,62,Male,Bumiputera,PERIKATAN NASIONAL (PN),19098,0,Lost
+Ahmad Fahmi Bin Mohamed Fadzil,P.121 Lembah Pantai,W.P. Kuala Lumpur,3,FAHMI FADZIL,41,Male,Bumiputera,PAKATAN HARAPAN (PH),35359,1,Won
+Ramlan Bin Shahean @ Askolani,P.121 Lembah Pantai,W.P. Kuala Lumpur,4,RAMLAN ASKOLANI,61,Male,Bumiputera,BARISAN NASIONAL (BN),21447,0,Lost
+Lee Kah Hing,P.122 Seputeh,W.P. Kuala Lumpur,1,LEE KAH HING,54,Male,Chinese,BARISAN NASIONAL (BN),6032,0,Lost deposit
+Wong Yee Yeng,P.122 Seputeh,W.P. Kuala Lumpur,2,WONG YEE YENG,53,Male,Chinese,PERIKATAN NASIONAL (PN),6047,0,Lost deposit
+Lian Choy Ling,P.122 Seputeh,W.P. Kuala Lumpur,3,CHOY SAN YEH,55,Female,Chinese,BEBAS (BEBAS),865,0,Lost deposit
+Teresa Kok Suh Sim,P.122 Seputeh,W.P. Kuala Lumpur,4,TERESA KOK,58,Female,Chinese,PAKATAN HARAPAN (PH),73234,1,Won
+Lee Wai Hong,P.122 Seputeh,W.P. Kuala Lumpur,5,LEE WAI HONG,42,Male,Chinese,BEBAS (BEBAS),1276,0,Lost deposit
+Tan Kok Wai,P.123 Cheras,W.P. Kuala Lumpur,1,TAN KOK WAI,65,Male,Chinese,PAKATAN HARAPAN (PH),60294,1,Won
+Chong Yew Chuan,P.123 Cheras,W.P. Kuala Lumpur,2,CHONG YEW CHUAN,39,Male,Chinese,BARISAN NASIONAL (BN),5606,0,Lost deposit
+Chin Yoke Kheng,P.123 Cheras,W.P. Kuala Lumpur,3,RUBY CHIN,41,Female,Chinese,PERIKATAN NASIONAL (PN),5846,0,Lost deposit
+Wan Azizah Binti Wan Ismail,P.124 Bandar Tun Razak,W.P. Kuala Lumpur,1,DATO' SERI DR WAN AZIZAH BINTI WAN ISMAIL,70,Female,Bumiputera,PAKATAN HARAPAN (PH),43476,1,Won
+Chew Yin Keen,P.124 Bandar Tun Razak,W.P. Kuala Lumpur,2,DATUK CHEW YIN KEEN,58,Male,Chinese,BARISAN NASIONAL (BN),15886,0,Lost
+Kamarudin Bin Jaffar,P.124 Bandar Tun Razak,W.P. Kuala Lumpur,3,DATO KAMARUDIN JAFFAR,71,Male,Bumiputera,PERIKATAN NASIONAL (PN),33659,0,Lost
+Tengku Adnan Bin Tengku Mansor,P.125 Putrajaya,W.P. Putrajaya,1,TENGKU ADNAN BIN TENGKU MANSOR,71,Male,Bumiputera,BARISAN NASIONAL (BN),13692,0,Lost
+Noraishah Mydin Binti Haji Abdul Aziz,P.125 Putrajaya,W.P. Putrajaya,2,NORAISHAH MYDIN BINTI HAJI ABDUL AZIZ,47,Female,Bumiputera,PAKATAN HARAPAN (PH),5988,0,Lost
+Mohd Rosli Bin Ramli,P.125 Putrajaya,W.P. Putrajaya,3,DATO' MOHD ROSLI BIN RAMLI,64,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),878,0,Lost deposit
+Samsudin Bin Mohamad Fauzi,P.125 Putrajaya,W.P. Putrajaya,4,SAMSUDIN PKPKL,46,Male,Bumiputera,BEBAS (BEBAS),63,0,Lost deposit
+Mohd Radzi Bin Md Jidin,P.125 Putrajaya,W.P. Putrajaya,5,DR. RADZI JIDIN (DRJ),45,Male,Bumiputera,PERIKATAN NASIONAL (PN),16002,1,Won
+Lim Fice Bee,P.125 Putrajaya,W.P. Putrajaya,6,LIM FICE BEE,44,Female,Chinese,BEBAS (BEBAS),20,0,Lost deposit
+Ahmad Fakhri Bin Abu Samah,P.126 Jelebu,Negeri Sembilan,1,AHMAD FAKHRI,41,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),253,0,Lost deposit
+Jalaluddin Bin Alias,P.126 Jelebu,Negeri Sembilan,2,JALALUDDIN BIN ALIAS,59,Male,Bumiputera,BARISAN NASIONAL (BN),21805,1,Won
+Zulkefly Mohamad Bin Omar,P.126 Jelebu,Negeri Sembilan,3,DATO' ZULKEFLY OMAR,58,Male,Bumiputera,PAKATAN HARAPAN (PH),13680,0,Lost
+Zaharuddin Bin Baba Samion,P.126 Jelebu,Negeri Sembilan,4,ZAHARUDDIN BABA SAMION,56,Male,Bumiputera,PERIKATAN NASIONAL (PN),9596,0,Lost
+Muhammad Noraffendy Bin Mohd Salleh,P.127 Jempol,Negeri Sembilan,1,AFFENDY SALLEH,34,Male,Bumiputera,PERIKATAN NASIONAL (PN),16722,0,Lost
+Mohd Khalid Bin Mohd Yunus,P.127 Jempol,Negeri Sembilan,2,TAN SRI KHALID YUNUS,79,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),654,0,Lost deposit
+Shamshulkahar Bin Mohd Deli,P.127 Jempol,Negeri Sembilan,3,DATO' HAJI SHAMSHULKAHAR BIN HAJI MOHD DELI,61,Male,Bumiputera,BARISAN NASIONAL (BN),30138,1,Won
+Norwani Binti Ahmat,P.127 Jempol,Negeri Sembilan,4,NORWANI AHMAT,46,Female,Bumiputera,PAKATAN HARAPAN (PH),24281,0,Lost
+Loke Siew Fook,P.128 Seremban,Negeri Sembilan,1,LOKE SIEW FOOK,45,Male,Chinese,PAKATAN HARAPAN (PH),63916,1,Won
+Mohd Izzat Bin Lesly,P.128 Seremban,Negeri Sembilan,2,IZZAT LESLY,33,Male,Bumiputera,BEBAS (BEBAS),373,0,Lost deposit
+Wong Yin Ting,P.128 Seremban,Negeri Sembilan,3,FELICIA WONG,43,Female,Chinese,BARISAN NASIONAL (BN),24584,0,Lost
+Mohamad Jani Bin Ismail,P.128 Seremban,Negeri Sembilan,4,SJN (B) MOHAMAD JANI,62,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),1336,0,Lost deposit
+Mohd Fadli Bin Che Me,P.128 Seremban,Negeri Sembilan,5,HAJI FADLI CHE ME,50,Male,Bumiputera,PERIKATAN NASIONAL (PN),33075,0,Lost
+Kamarulzaman Bin Kamdias,P.129 Kuala Pilah,Negeri Sembilan,1,KAMARULZAMAN KAMDIAS,56,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),406,0,Lost deposit
+Eddin Syazlee Bin Shith,P.129 Kuala Pilah,Negeri Sembilan,2,EDDIN SYAZLEE,48,Male,Bumiputera,PERIKATAN NASIONAL (PN),11560,0,Lost
+Azman Bin Idris,P.129 Kuala Pilah,Negeri Sembilan,3,AZMAN BIN IDRIS,50,Male,Bumiputera,PARTI WARISAN SABAH (WARISAN),333,0,Lost deposit
+Nor Azman Bin Mohamad,P.129 Kuala Pilah,Negeri Sembilan,4,NOR AZMAN MOHAMAD,45,Male,Bumiputera,PAKATAN HARAPAN (PH),14940,0,Lost
+Adnan Bin Abu Hassan,P.129 Kuala Pilah,Negeri Sembilan,5,DATO' HJ ADNAN HJ ABU HASSAN,52,Male,Bumiputera,BARISAN NASIONAL (BN),21423,1,Won
+Ng Kian Nam,P.130 Rasah,Negeri Sembilan,1,NG KIAN NAM,43,Male,Chinese,BARISAN NASIONAL (BN),19447,0,Lost
+Choong Vee Hing,P.130 Rasah,Negeri Sembilan,2,DAVID CHOONG,50,Male,Chinese,PERIKATAN NASIONAL (PN),18810,0,Lost
+Cha Kee Chin,P.130 Rasah,Negeri Sembilan,3,CHA KEE CHIN,48,Male,Chinese,PAKATAN HARAPAN (PH),81434,1,Won
+Mohd Nazree Bin Mohd Yunus,P.131 Rembau,Negeri Sembilan,1,HJ. NAZREE YUNUS,38,Male,Bumiputera,PERIKATAN NASIONAL (PN),21875,0,Lost
+Mohamad Bin Haji Hasan,P.131 Rembau,Negeri Sembilan,2,TOK MAT,66,Male,Bumiputera,BARISAN NASIONAL (BN),53075,1,Won
+Jufitri Bin Joha,P.131 Rembau,Negeri Sembilan,3,JUFITRI JOHA,43,Male,Bumiputera,PAKATAN HARAPAN (PH),33178,0,Lost
+Tinagaran A/L Subramaniam,P.131 Rembau,Negeri Sembilan,4,CIKGU TINA,45,Male,Indian,PARTI SOSIALIS MALAYSIA (PSM),779,0,Lost deposit
+Ramly Bin Awalludin,P.131 Rembau,Negeri Sembilan,5,RAMLY BIN AWALLUDIN,67,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),529,0,Lost deposit
+Rafiei Bin Mustapha,P.132 Port Dickson,Negeri Sembilan,1,CIKGU HAJI RAFIEI MUSTAPHA,68,Male,Bumiputera,PERIKATAN NASIONAL (PN),18235,0,Lost
+P.Kamalanathan- A/L P.Panchanathan,P.132 Port Dickson,Negeri Sembilan,2,DATUK P.KAMALANATHAN,57,Male,Indian,BARISAN NASIONAL (BN),18412,0,Lost
+Abdul Rani Bin Kulop Abdullah,P.132 Port Dickson,Negeri Sembilan,3,RANI KULUP,67,Male,Bumiputera,BEBAS (BEBAS),441,0,Lost deposit
+Ahmad Idham Bin Ahmad Nadzri,P.132 Port Dickson,Negeri Sembilan,4,DR. AHMAD IDHAM BIN AHMAD NADZRI,51,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),1084,0,Lost deposit
+Aminuddin Bin Harun,P.132 Port Dickson,Negeri Sembilan,5,DATO' SERI AMINUDDIN BIN HARUN,55,Male,Bumiputera,PAKATAN HARAPAN (PH),42013,1,Won
+Mohd Isam Bin Mohd Isa,P.133 Tampin,Negeri Sembilan,1,MOHD ISAM BIN MOHD ISA,53,Male,Bumiputera,BARISAN NASIONAL (BN),23283,1,Won
+Zamani Bin Ibrahim,P.133 Tampin,Negeri Sembilan,2,USTAZ ZAMANI IBRAHIM,58,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),781,0,Lost deposit
+Abdul Halim Bin Abu Bakar,P.133 Tampin,Negeri Sembilan,3,MEJAR (B) ABDUL HALIM,56,Male,Bumiputera,PERIKATAN NASIONAL (PN),14962,0,Lost
+Muhammad Faiz Bin Fadzil,P.133 Tampin,Negeri Sembilan,4,FAIZ FADZIL,45,Male,Bumiputera,PAKATAN HARAPAN (PH),22007,0,Lost
+Abdul Hakim Bin Abdul Wahid,P.134 Masjid Tanah,Melaka,1,ABDUL HAKIM BIN ABDUL WAHID,37,Male,Bumiputera,BARISAN NASIONAL (BN),21193,0,Lost
+Mas Ermieyati Binti Samsudin,P.134 Masjid Tanah,Melaka,2,MAS ERMIEYATI,46,Female,Bumiputera,PERIKATAN NASIONAL (PN),25604,1,Won
+Mohd Saufy Nizar Bin Abdul Rahman,P.134 Masjid Tanah,Melaka,3,MUTALIB UTHMAN,40,Male,Bumiputera,IKATAN DEMOKRATIK MALAYSIA (MUDA),7445,0,Lost
+Handrawirawan Bin Abu Bakar,P.134 Masjid Tanah,Melaka,4,HANDRAWIRAWAN BIN ABU BAKAR,43,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),507,0,Lost deposit
+Shahril Sufian Bin Hamdan,P.135 Alor Gajah,Melaka,1,SHAHRIL HAMDAN,37,Male,Bumiputera,BARISAN NASIONAL (BN),27288,0,Lost
+Adly Bin Zahari,P.135 Alor Gajah,Melaka,2,ADLY ZAHARI,51,Male,Bumiputera,PAKATAN HARAPAN (PH),28178,1,Won
+Mohd Redzuan Bin Md Yusof,P.135 Alor Gajah,Melaka,3,PAK WAN (DATUK SERI MOHD REDZUAN BIN MD YUSOF),65,Male,Bumiputera,PERIKATAN NASIONAL (PN),17211,0,Lost
+Muhammad Nazriq Bin Abdul Rahman,P.135 Alor Gajah,Melaka,4,MUHAMMAD NAZRIQ ABDUL RAHMAN,36,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),323,0,Lost deposit
+Ghazali Bin Abu,P.136 Tangga Batu,Melaka,1,GHAZALI BIN ABU,NULL,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),702,0,Lost deposit
+Mohammad Shahril Bin Mahmood,P.136 Tangga Batu,Melaka,2,SHAHRIL MAHMOOD,40,Male,Bumiputera,BEBAS (BEBAS),267,0,Lost deposit
+Bakri Bin Jamaluddin,P.136 Tangga Batu,Melaka,3,BAKRI JAMALUDDIN,57,Male,Bumiputera,PERIKATAN NASIONAL (PN),37406,1,Won
+Rusnah Binti Aluai,P.136 Tangga Batu,Melaka,4,PROF. MADYA RUSNAH ALUAI,60,Female,Bumiputera,PAKATAN HARAPAN (PH),28557,0,Lost
+Lim Ban Hong,P.136 Tangga Batu,Melaka,5,DATUK LIM BAN HONG,45,Male,Chinese,BARISAN NASIONAL (BN),25095,0,Lost
+Adam Adli Bin Abd Halim,P.137 Hang Tuah Jaya,Melaka,1,ADAM ADLI,33,Male,Bumiputera,PAKATAN HARAPAN (PH),39418,1,Won
+Sheikh Ikhzan Bin Sheikh Salleh,P.137 Hang Tuah Jaya,Melaka,2,SHEIKH IKHZAN,40,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),739,0,Lost deposit
+Mohd Ridhwan Bin Mohd Ali,P.137 Hang Tuah Jaya,Melaka,3,MOHD RIDHWAN BIN MOHD ALI,36,Male,Bumiputera,BARISAN NASIONAL (BN),30780,0,Lost
+Mohd Azrudin Bin Md Idris,P.137 Hang Tuah Jaya,Melaka,4,MOHD AZRUDIN BIN MD IDRIS,41,Male,Bumiputera,PERIKATAN NASIONAL (PN),23549,0,Lost
+Khoo Poay Tiong,P.138 Kota Melaka,Melaka,1,KHOO POAY TIONG,51,Male,Chinese,PAKATAN HARAPAN (PH),73995,1,Won
+Kon Qi Yao,P.138 Kota Melaka,Melaka,2,KON QI YAO,41,Male,Chinese,BARISAN NASIONAL (BN),20686,0,Lost
+Norazlanshah Bin Hazali,P.138 Kota Melaka,Melaka,3,DATO' DR. NORAZLAN,42,Male,Bumiputera,BEBAS (BEBAS),925,0,Lost deposit
+Suhaime Bin Borhan,P.138 Kota Melaka,Melaka,4,SUHAIME BORHAN,42,Male,Bumiputera,PERIKATAN NASIONAL (PN),27575,0,Lost
+Harun Bin Mohamed,P.139 Jasin,Melaka,1,DATUK HARUN,56,Male,Bumiputera,PAKATAN HARAPAN (PH),21674,0,Lost
+Roslan Bin Ahmad,P.139 Jasin,Melaka,2,ROSLAN BIN AHMAD,55,Male,Bumiputera,BARISAN NASIONAL (BN),27571,0,Lost
+Mohd Daud Bin Nasir,P.139 Jasin,Melaka,3,MOHD DAUD NASIR,NULL,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),460,0,Lost deposit
+Zulkifli Bin Ismail,P.139 Jasin,Melaka,4,TUAN GURU ZULKIFLI ISMAIL,56,Male,Bumiputera,PERIKATAN NASIONAL (PN),27893,1,Won
+Syed Hairoul Faizey Bin Syed Ali,P.140 Segamat,Johor,1,SYED HAIROUL,49,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),1062,0,Lost deposit
+Ramasamy A/L Muthusamy,P.140 Segamat,Johor,2,TAN SRI M RAMASAMY,59,Male,Indian,BARISAN NASIONAL (BN),17768,0,Lost
+Yuneswaran A/L Ramaraj,P.140 Segamat,Johor,3,R. YUNESWARAN,36,Male,Indian,PAKATAN HARAPAN (PH),23437,1,Won
+Poobalan A/L Ponnusamy,P.140 Segamat,Johor,4,POOBALAN PONNUSAMY,49,Male,Indian,PERIKATAN NASIONAL (PN),8385,0,Lost
+Md Salleheen Bin Mohamad,P.141 Sekijang,Johor,1,MD SALLEHEEN BIN MOHAMAD,41,Male,Bumiputera,BARISAN NASIONAL (BN),17207,0,Lost
+Uzzair Bin Ismail,P.141 Sekijang,Johor,2,UZZAIR BIN ISMAIL,38,Male,Bumiputera,PERIKATAN NASIONAL (PN),11612,0,Lost
+Mohd Zohar Bin Ahmad,P.141 Sekijang,Johor,3,DR. MOHD ZOHAR,49,Male,Bumiputera,PARTI WARISAN SABAH (WARISAN),339,0,Lost deposit
+Zaliha Binti Mustafa,P.141 Sekijang,Johor,4,DR. ZALIHA MUSTAFA,58,Female,Bumiputera,PAKATAN HARAPAN (PH),18941,1,Won
+Mohd Saiful Faizal Bin Abd Halim,P.141 Sekijang,Johor,5,SAIFUL FAIZAL,44,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),138,0,Lost deposit
+Alvin Chang Teck Kiam,P.142 Labis,Johor,1,ALVIN CHANG,48,Male,Chinese,PERIKATAN NASIONAL (PN),5312,0,Lost
+Pang Hok Liong,P.142 Labis,Johor,2,PANG HOK LIONG,65,Male,Chinese,PAKATAN HARAPAN (PH),16133,1,Won
+Chua Tee Yong,P.142 Labis,Johor,3,CHUA TEE YONG,45,Male,Chinese,BARISAN NASIONAL (BN),13300,0,Lost
+Razali Bin Ibrahim,P.143 Pagoh,Johor,1,DATUK SERI RAZALI IBRAHIM,52,Male,Bumiputera,BARISAN NASIONAL (BN),14426,0,Lost
+Mahiaddin Bin Md Yasin,P.143 Pagoh,Johor,2,TAN SRI MUHYIDDIN BIN MD YASIN,75,Male,Bumiputera,PERIKATAN NASIONAL (PN),24986,1,Won
+Iskandar Shah Bin Abd Rahman,P.143 Pagoh,Johor,3,ISKANDAR SHAH,41,Male,Bumiputera,PAKATAN HARAPAN (PH),14979,0,Lost
+Syed Ibrahim Bin Syed Noh,P.144 Ledang,Johor,1,SYED IBRAHIM SYED NOH,58,Male,Bumiputera,PAKATAN HARAPAN (PH),33650,1,Won
+Zainal Bahrom Bin A. Kadir,P.144 Ledang,Johor,2,ZAINAL BAHROM,NULL,Male,Bumiputera,BEBAS (BEBAS),75,0,Lost deposit
+Yunus Bin Mustakim,P.144 Ledang,Johor,3,CIKGU YUNUS,64,Male,Bumiputera,BEBAS (BEBAS),140,0,Lost deposit
+Rafidah Binti Ridwan,P.144 Ledang,Johor,4,RAFIDAH RIDWAN,44,Female,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),269,0,Lost deposit
+Hamim Bin Samuri,P.144 Ledang,Johor,5,HAMIM SAMURI,64,Male,Bumiputera,BARISAN NASIONAL (BN),23881,0,Lost
+Zaidi Bin Abd Majid,P.144 Ledang,Johor,6,ZAIDI HJ MAJID,52,Male,Bumiputera,PERIKATAN NASIONAL (PN),22292,0,Lost
+Chelvarajan A/L R. Suppiah,P.145 Bakri,Johor,1,R. S. CHELVA,67,Male,Indian,PERIKATAN NASIONAL (PN),17222,0,Lost
+Lee Ching Yong,P.145 Bakri,Johor,2,CHRIS LEE CHING YONG,46,Male,Chinese,BARISAN NASIONAL (BN),17382,0,Lost
+Tan Hong Pin,P.145 Bakri,Johor,3,TAN HONG PIN,41,Male,Chinese,PAKATAN HARAPAN (PH),36636,1,Won
+Haron Bin Jaffar,P.145 Bakri,Johor,4,HARON JAFFAR,60,Male,Bumiputera,BEBAS (BEBAS),1900,0,Lost deposit
+Mohd Helmy Bin Abd.Latif,P.146 Muar,Johor,1,MOHD HELMY ABD.LATIF,41,Male,Bumiputera,BARISAN NASIONAL (BN),14581,0,Lost
+Abdullah Bin Husin,P.146 Muar,Johor,2,USTAZ ABDULLAH HUSIN,61,Male,Bumiputera,PERIKATAN NASIONAL (PN),18616,0,Lost
+Syed Saddiq Bin Syed Abdul Rahman,P.146 Muar,Johor,3,SYED SADDIQ,29,Male,Bumiputera,IKATAN DEMOKRATIK MALAYSIA (MUDA),19961,1,Won
+Noraini Binti Ahmad,P.147 Parit Sulong,Johor,1,NORAINI AHMAD,55,Female,Bumiputera,BARISAN NASIONAL (BN),25740,1,Won
+Karim Bin Deraman,P.147 Parit Sulong,Johor,2,DR KARIM,64,Male,Bumiputera,PERIKATAN NASIONAL (PN),23719,0,Lost
+Mohd Faizal Bin Dolah,P.147 Parit Sulong,Johor,3,MOHD FAIZAL DOLAH,35,Male,Bumiputera,PAKATAN HARAPAN (PH),13495,0,Lost
+Wee Ka Siong,P.148 Ayer Hitam,Johor,1,WEE KA SIONG,54,Male,Chinese,BARISAN NASIONAL (BN),18911,1,Won
+Sheikh 'Umar Bagharib Bin Ali,P.148 Ayer Hitam,Johor,2,SHEIKH OMAR,37,Male,Bumiputera,PAKATAN HARAPAN (PH),15948,0,Lost
+Muhammad Syafiq Bin A Aziz,P.148 Ayer Hitam,Johor,3,SYAFIQ AZIZ,34,Male,Bumiputera,PERIKATAN NASIONAL (PN),11833,0,Lost
+Aminolhuda Bin Hassan,P.149 Gading,Johor,1,CIKGU HUDA,63,Male,Bumiputera,PAKATAN HARAPAN (PH),23242,1,Won
+Zanariyah Binti Abdul Hamid,P.149 Gading,Johor,2,ZANARIYAH,52,Female,Bumiputera,PERIKATAN NASIONAL (PN),18475,0,Lost
+Mohd Lassim Bin Burhan,P.149 Gading,Johor,3,DATUK LASSIM BURHAN,42,Male,Bumiputera,BARISAN NASIONAL (BN),19242,0,Lost
+Mahdzir Bin Ibrahim,P.149 Gading,Johor,4,MAHDZIR BIN IBRAHIM,46,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),305,0,Lost deposit
+Onn Bin Abu Bakar,P.150 Batu Pahat,Johor,1,ONN BIN ABU BAKAR,59,Male,Bumiputera,PAKATAN HARAPAN (PH),45242,1,Won
+Zahari Bin Osman @ Othman,P.150 Batu Pahat,Johor,2,ZAHARI BIN OSMAN,59,Male,Bumiputera,PARTI RAKYAT MALAYSIA (PRM),263,0,Lost deposit
+Ishak @ Mohd Farid Bin Siraj,P.150 Batu Pahat,Johor,3,ISHAK SIRAJ,61,Male,Bumiputera,BARISAN NASIONAL (BN),24309,0,Lost
+Nizam Bashir Bin Abdul Kariem Bashir,P.150 Batu Pahat,Johor,4,NIZAM BASHIR,49,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),410,0,Lost deposit
+Mohd Rashid Bin Hasnon,P.150 Batu Pahat,Johor,5,DATO' RASHID HASNON,62,Male,Bumiputera,PERIKATAN NASIONAL (PN),29270,0,Lost
+Maszlee Bin Malik,P.151 Simpang Renggam,Johor,1,DR MASZLEE MALIK,47,Male,Bumiputera,PAKATAN HARAPAN (PH),16491,0,Lost
+Kamal Bin Kusmin,P.151 Simpang Renggam,Johor,2,KAMAL,40,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),251,0,Lost deposit
+Mohd Fazrul Bin Kamat,P.151 Simpang Renggam,Johor,3,FAZRUL KAMAT,36,Male,Bumiputera,PERIKATAN NASIONAL (PN),9077,0,Lost
+Hasni Bin Mohammad,P.151 Simpang Renggam,Johor,4,HASNI BIN MOHAMMAD,63,Male,Bumiputera,BARISAN NASIONAL (BN),18312,1,Won
+Gan Ping Shou @ Gan Ping Sieu,P.152 Kluang,Johor,1,GAN PING SIEU,56,Male,Chinese,BARISAN NASIONAL (BN),23395,0,Lost
+Wong Shu Qi,P.152 Kluang,Johor,2,WONG SHU QI,39,Female,Bumiputera,PAKATAN HARAPAN (PH),49801,1,Won
+Ramendran A/L Ulaganathan,P.152 Kluang,Johor,3,IR. U. RAMENDRAN,52,Male,Indian,BEBAS (BEBAS),404,0,Lost deposit
+Dzulkarnain Bin Alias,P.152 Kluang,Johor,4,DZULKARNAIN BIN ALIAS,52,Male,Bumiputera,PERIKATAN NASIONAL (PN),22021,0,Lost
+Hishammuddin Bin Datuk Hussein,P.153 Sembrong,Johor,1,HISHAMMUDDIN HUSSEIN,61,Male,Bumiputera,BARISAN NASIONAL (BN),22572,1,Won
+Hasni Bin Abas,P.153 Sembrong,Johor,2,HASNI ABAS,60,Male,Bumiputera,PAKATAN HARAPAN (PH),11692,0,Lost
+Aziz Bin Ismail,P.153 Sembrong,Johor,3,JOE AZIZ,38,Male,Bumiputera,PERIKATAN NASIONAL (PN),6666,0,Lost
+Fatin Zulaikha Binti Zaidi,P.154 Mersing,Johor,1,ZULAIKHA ZAIDI,29,Female,Bumiputera,PAKATAN HARAPAN (PH),6813,0,Lost
+Ismail Bin Don,P.154 Mersing,Johor,2,ISMAIL BIN DON,54,Male,Bumiputera,BEBAS (BEBAS),89,0,Lost deposit
+Muhammad Islahuddin Bin Abas,P.154 Mersing,Johor,3,ISLAHUDDIN ABAS,34,Male,Bumiputera,PERIKATAN NASIONAL (PN),21066,1,Won
+Nurfatimah Binti Ibrahim,P.154 Mersing,Johor,4,NURFATIMAH IBRAHIM,33,Female,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),209,0,Lost deposit
+Abd Latif Bin Bandi @ Nor Sebandi,P.154 Mersing,Johor,5,ABD LATIF BANDI,56,Male,Bumiputera,BARISAN NASIONAL (BN),18729,0,Lost
+Manndzri Bin Nasib,P.155 Tenggara,Johor,1,MANNDZRI BIN NASIB,42,Male,Bumiputera,BARISAN NASIONAL (BN),21185,1,Won
+M Azhar Bin Palal,P.155 Tenggara,Johor,2,AZHAR PALAL,NULL,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),353,0,Lost deposit
+Mohd Nazari Bin Mokhtar,P.155 Tenggara,Johor,3,KOLONEL NAZARI,61,Male,Bumiputera,PERIKATAN NASIONAL (PN),18194,0,Lost
+Zuraidah Zainab Binti Mohd Zain,P.155 Tenggara,Johor,4,ZURAIDAH CHEDAH,53,Female,Bumiputera,PAKATAN HARAPAN (PH),11618,0,Lost
+Mohamed Khaled Bin Nordin,P.156 Kota Tinggi,Johor,1,KHALED NORDIN,64,Male,Bumiputera,BARISAN NASIONAL (BN),25410,1,Won
+Mohamad Ridhwan Bin Rasman,P.156 Kota Tinggi,Johor,2,RIDHWAN RASMAN,27,Male,Bumiputera,PERIKATAN NASIONAL (PN),17020,0,Lost
+Onn Bin Jaafar,P.156 Kota Tinggi,Johor,3,ONN JAAFAR,59,Male,Bumiputera,PAKATAN HARAPAN (PH),4903,0,Lost deposit
+Fairulnizar Bin Rahmat,P.157 Pengerang,Johor,1,CIKGU IMAM NIZAR,43,Male,Bumiputera,PERIKATAN NASIONAL (PN),16728,0,Lost
+Azalina Binti Othman,P.157 Pengerang,Johor,2,AZALINA OTHMAN SAID,58,Female,Bumiputera,BARISAN NASIONAL (BN),21738,1,Won
+Che Zakaria Bin Mohd Salleh,P.157 Pengerang,Johor,3,CHE ZAKARIA BIN MOHD SALLEH,61,Male,Bumiputera,PAKATAN HARAPAN (PH),3374,0,Lost deposit
+Jimmy Puah Wee Tse,P.158 Tebrau,Johor,1,JIMMY PUAH WEE TSE,46,Male,Chinese,PAKATAN HARAPAN (PH),83959,1,Won
+Mohamad Isa Bin Mohamad Basir,P.158 Tebrau,Johor,2,MOHAMAD ISA BIN MOHAMAD BASIR,44,Male,Bumiputera,PERIKATAN NASIONAL (PN),53239,0,Lost
+Wong Siaw Ting,P.158 Tebrau,Johor,3,NICOLE WONG,42,Female,Chinese,BARISAN NASIONAL (BN),30767,0,Lost
+Noor Azleen Bin Ambros,P.159 Pasir Gudang,Johor,1,NOOR AZLEEN AMBROS,37,Male,Bumiputera,BARISAN NASIONAL (BN),37369,0,Lost
+Hassan Bin Abdul Karim,P.159 Pasir Gudang,Johor,2,HASSAN ABDUL KARIM,71,Male,Bumiputera,PAKATAN HARAPAN (PH),71233,1,Won
+Mohamad Farid Bin Abdul Razak,P.159 Pasir Gudang,Johor,3,MOHAMAD FARID BIN ABDUL RAZAK,38,Male,Bumiputera,PERIKATAN NASIONAL (PN),39675,0,Lost
+Mohammad Raffi Bin Beran,P.159 Pasir Gudang,Johor,4,MOHAMMAD RAFFI BERAN,50,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),1003,0,Lost deposit
+Johan Arifin Bin Mohd Ropi,P.160 Johor Bahru,Johor,1,JOHAN ROPI,42,Male,Bumiputera,BARISAN NASIONAL (BN),27211,0,Lost
+Mohd Mohtaj Bin Yacob,P.160 Johor Bahru,Johor,2,MOHTAJ,56,Male,Bumiputera,PERIKATAN NASIONAL (PN),22075,0,Lost
+Mohamad Akhiri Bin Mahmood,P.160 Johor Bahru,Johor,3,HAIRY MAHMOOD,50,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),1855,0,Lost deposit
+Akmal Nasrullah Bin Mohd Nasir,P.160 Johor Bahru,Johor,4,AKMAL NASIR,36,Male,Bumiputera,PAKATAN HARAPAN (PH),43252,1,Won
+Nur Jazlan Bin Mohamed,P.161 Pulai,Johor,1,NUR JAZLAN,56,Male,Bumiputera,BARISAN NASIONAL (BN),31726,0,Lost
+Loh Kah Yong,P.161 Pulai,Johor,2,LOH KAH YONG,49,Male,Chinese,PERIKATAN NASIONAL (PN),20677,0,Lost
+Salahuddin Bin Ayub,P.161 Pulai,Johor,3,DATUK SERI SALAHUDDIN AYUB,61,Male,Bumiputera,PAKATAN HARAPAN (PH),64900,1,Won
+Tan Nam Cha,P.162 Iskandar Puteri,Johor,1,JASHEN TAN,37,Male,Chinese,PERIKATAN NASIONAL (PN),30078,0,Lost
+Teoh Sew Hock,P.162 Iskandar Puteri,Johor,2,DATUK JASON TEOH,53,Male,Chinese,BARISAN NASIONAL (BN),36783,0,Lost
+Liew Chin Tong,P.162 Iskandar Puteri,Johor,3,LIEW CHIN TONG,45,Male,Chinese,PAKATAN HARAPAN (PH),96819,1,Won
+Chua Jian Boon,P.163 Kulai,Johor,1,CHUA JIAN BOON,29,Male,Chinese,BARISAN NASIONAL (BN),29506,0,Lost
+Teo Nie Ching,P.163 Kulai,Johor,2,TEO NIE CHING,41,Female,Chinese,PAKATAN HARAPAN (PH),65529,1,Won
+Tan Chin Hock,P.163 Kulai,Johor,3,DATO' TAN,NULL,Male,Chinese,PERIKATAN NASIONAL (PN),20218,0,Lost
+Isa Bin Ab Hamid,P.164 Pontian,Johor,1,CIKGU ISA BIN AB HAMID,56,Male,Bumiputera,PERIKATAN NASIONAL (PN),17443,0,Lost
+Ahmad Bin Maslan,P.164 Pontian,Johor,2,DATUK SERI AHMAD MASLAN,56,Male,Bumiputera,BARISAN NASIONAL (BN),23201,1,Won
+Shazwan Bin Zdainal Abidin,P.164 Pontian,Johor,3,SHAZWAN ZDAINAL,38,Male,Bumiputera,PAKATAN HARAPAN (PH),15901,0,Lost
+Jamaluddin Bin Mohamad,P.164 Pontian,Johor,4,JAMALUDDIN MOHAMAD,NULL,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),306,0,Lost deposit
+Najwah Halimah Binti Ab Alim,P.165 Tanjung Piai,Johor,1,NAJWAH HALIMAH,44,Female,Bumiputera,PERIKATAN NASIONAL (PN),13762,0,Lost
+Wee Jeck Seng,P.165 Tanjung Piai,Johor,2,WEE JECK SENG,58,Male,Chinese,BARISAN NASIONAL (BN),23593,1,Won
+Lim Wei Jiet,P.165 Tanjung Piai,Johor,3,LIM WEI JIET,31,Male,Chinese,IKATAN DEMOKRATIK MALAYSIA (MUDA),17233,0,Lost
+Ramle Bin Mat Daly,P.166 Labuan,W.P. Labuan,1,RAMLE,60,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),90,0,Lost deposit
+Suhaili Bin Abdul Rahman,P.166 Labuan,W.P. Labuan,2,DATO' DR. SUHAILI ABDUL RAHMAN,61,Male,Bumiputera,PERIKATAN NASIONAL (PN),8124,1,Won
+Bashir Bin Alias,P.166 Labuan,W.P. Labuan,3,BASHIR BIN ALIAS,56,Male,Bumiputera,BARISAN NASIONAL (BN),7416,0,Lost
+Ramli Bin Tahir,P.166 Labuan,W.P. Labuan,4,DATUK WIRA DR RAMLI,NULL,Male,Bumiputera,PAKATAN HARAPAN (PH),5307,0,Lost
+Rozman Bin Isli,P.166 Labuan,W.P. Labuan,5,DATUK ROZMAN ISLI,58,Male,Bumiputera,PARTI WARISAN SABAH (WARISAN),7310,0,Lost
+Dayang Rusimah @ Raynie Bt Mohd. Din,P.166 Labuan,W.P. Labuan,6,DAYANG RUSIMAH @ RAYNIE BINTI DATUK HJ. MOHD. DIN,42,Female,Bumiputera,PARTI BANGSA MALAYSIA (PBM),202,0,Lost deposit
+Ruddy Bin Awah,P.167 Kudat,Sabah,1,RUDDY BIN AWAH,53,Male,Bumiputera,PARTI GABUNGAN RAKYAT SABAH (GRS),14356,0,Lost
+Nur Alya Humaira Binti Usun Abdullah,P.167 Kudat,Sabah,2,PETRONELLA USUN,34,Female,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),282,0,Lost deposit
+Rashid Bin Abdul Harun,P.167 Kudat,Sabah,3,RASHID BIN ABDUL HARUN,56,Male,Bumiputera,PARTI WARISAN SABAH (WARISAN),9421,0,Lost
+Verdon Bin Bahanda,P.167 Kudat,Sabah,4,VERDON BIN BAHANDA,49,Male,Bumiputera,BEBAS (BEBAS),16323,1,Won
+Thonny Chee,P.167 Kudat,Sabah,5,THONNY CHEE,42,Male,Bumiputera,PAKATAN HARAPAN (PH),4726,0,Lost deposit
+Mohd Azmi Bin Hj Zulkiflee,P.168 Kota Marudu,Sabah,1,MOHD AZMI BIN HJ ZULKIFLEE,47,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),279,0,Lost deposit
+Shahrizal Bin Denci,P.168 Kota Marudu,Sabah,2,SHAHRIZAL DENCI,39,Male,Bumiputera,IKATAN DEMOKRATIK MALAYSIA (MUDA),3225,0,Lost deposit
+Norman Bin Tulang,P.168 Kota Marudu,Sabah,3,NORMAN BIN TULANG (TAS),58,Male,Bumiputera,BEBAS (BEBAS),660,0,Lost deposit
+Jilid @ Zainuddin Bin Kuminding,P.168 Kota Marudu,Sabah,4,JILID @ ZAINUDDIN BIN KUMINDING,60,Male,Bumiputera,PARTI WARISAN SABAH (WARISAN),5320,0,Lost deposit
+Johnity @ Maximus Bin Ongkili,P.168 Kota Marudu,Sabah,5,DR.MAXIMUS@JOHNITY ONGKILI,69,Male,Bumiputera,PARTI GABUNGAN RAKYAT SABAH (GRS),16144,0,Lost
+Wetrom Bin Bahanda,P.168 Kota Marudu,Sabah,6,DATUK WETROM BAHANDA,52,Male,Bumiputera,PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM),24318,1,Won
+Madeli @ Modily Bin Bangali,P.169 Kota Belud,Sabah,1,MADELI @ MODILY BIN BANGALI,54,Male,Bumiputera,PAKATAN HARAPAN (PH),8323,0,Lost
+Abd Rahman Bin Dahlan,P.169 Kota Belud,Sabah,2,DATUK SERI PANGLIMA ABD RAHMAN BIN DAHLAN.,57,Male,Bumiputera,BARISAN NASIONAL (BN),20566,0,Lost
+Isnaraissah Munirah Bt Majilis@Fakharudy,P.169 Kota Belud,Sabah,3,MUNIRAH MAJILIS,40,Female,Bumiputera,PARTI WARISAN SABAH (WARISAN),25148,1,Won
+Madius Bin Tangau,P.170 Tuaran,Sabah,1,MADIUS TANGAU,64,Male,Bumiputera,PAKATAN HARAPAN (PH),24943,1,Won
+Boby Bin Lewat,P.170 Tuaran,Sabah,2,BOBY BIN LEWAT,42,Male,Bumiputera,BEBAS (BEBAS),393,0,Lost deposit
+Noortaip Bin Suhaili @ Sualee,P.170 Tuaran,Sabah,3,NOORTAIP BIN SUHAILI @ SUALEE,70,Male,Bumiputera,BEBAS (BEBAS),2008,0,Lost deposit
+Jo-Anna Sue Henley Rampas,P.170 Tuaran,Sabah,4,JO-ANNA SUE HENLEY RAMPAS,33,Female,Bumiputera,PARTI WARISAN SABAH (WARISAN),5728,0,Lost deposit
+Muminin Kalingkong @ Norbinsha,P.170 Tuaran,Sabah,5,MUMININ B. NORBINSHA,63,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),445,0,Lost deposit
+Joniston Bin Lumai @ Bangkuai,P.170 Tuaran,Sabah,6,JONISTON BANGKUAI,60,Male,Bumiputera,PARTI GABUNGAN RAKYAT SABAH (GRS),24710,0,Lost
+Mohd. Azis Bin Jamman,P.171 Sepanggar,Sabah,1,MOHD AZIS JAMMAN,48,Male,Bumiputera,PARTI WARISAN SABAH (WARISAN),18594,0,Lost
+Yakubah Khan,P.171 Sepanggar,Sabah,2,YAKUB KHAN,60,Male,Bumiputera,BARISAN NASIONAL (BN),19980,0,Lost
+Yusof Bin Kunchang,P.171 Sepanggar,Sabah,3,YUSOF BIN KUNCHANG,65,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),731,0,Lost deposit
+Mustapha @ Mohd Yunus Bin Sakmud,P.171 Sepanggar,Sabah,4,MUSTAPHA SAKMUD,53,Male,Bumiputera,PAKATAN HARAPAN (PH),27022,1,Won
+Jumardie Bin Lukman,P.171 Sepanggar,Sabah,5,JUMARDIE LUKMAN,40,Male,Bumiputera,PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM),3977,0,Lost deposit
+Yeo Yan Yin,P.172 Kota Kinabalu,Sabah,1,YEO YAN YIN @ AMANDA,29,Female,Chinese,PARTI WARISAN SABAH (WARISAN),7576,0,Lost
+Marcel Jude A/L Ms Joseph,P.172 Kota Kinabalu,Sabah,2,MARCEL JUDE,61,Male,Indian,BEBAS (BEBAS),137,0,Lost deposit
+Liaw Kit Siong,P.172 Kota Kinabalu,Sabah,3,WINSTON LIAW KIT SIONG,64,Male,Chinese,PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM),456,0,Lost deposit
+Chan Foong Hin,P.172 Kota Kinabalu,Sabah,4,CHAN FOONG HIN,43,Male,Chinese,PAKATAN HARAPAN (PH),31359,1,Won
+Yee Tsai Yiew,P.172 Kota Kinabalu,Sabah,5,YEE TSAI YIEW,32,Female,Chinese,PARTI GABUNGAN RAKYAT SABAH (GRS),4592,0,Lost deposit
+Awang Husaini Bin Sahari,P.173 Putatan,Sabah,1,AWANG HUSAINI BIN SAHARI,55,Male,Bumiputera,PAKATAN HARAPAN (PH),16110,0,Lost
+Shahelmey Bin Yahya,P.173 Putatan,Sabah,2,SHAHELMEY BIN YAHYA,49,Male,Bumiputera,BARISAN NASIONAL (BN),16234,1,Won
+Poyne B. Tudus @ Patrick Payne,P.173 Putatan,Sabah,3,POYNE B. TUDUS @ PATRICK PAYNE,68,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),394,0,Lost deposit
+Ahmad Bin Mohd Said,P.173 Putatan,Sabah,4,AHMAD BIN MOHD SAID,61,Male,Bumiputera,PARTI WARISAN SABAH (WARISAN),8511,0,Lost
+Ewon Benedick,P.174 Penampang,Sabah,1,EWON BENEDICK,39,Male,Bumiputera,PAKATAN HARAPAN (PH),29066,1,Won
+Richard Jimmy,P.174 Penampang,Sabah,2,RICHARD JIMMY,54,Male,Bumiputera,BEBAS (BEBAS),289,0,Lost deposit
+Kenny Chua Teck Ho,P.174 Penampang,Sabah,3,KENNY CHUA TECK HO,52,Male,Chinese,PARTI GABUNGAN RAKYAT SABAH (GRS),6719,0,Lost
+Ignatius Dorell Leiking,P.174 Penampang,Sabah,4,DARELL LEIKING,51,Male,Bumiputera,PARTI WARISAN SABAH (WARISAN),14656,0,Lost
+Nicholas Sylvester @ Berry,P.175 Papar,Sabah,1,NICHOLAS SYLVESTER @ BERRY,55,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),783,0,Lost deposit
+Chin Chuan Siong @ Norbert Chin,P.175 Papar,Sabah,2,NORBERT CHIN,71,Male,Bumiputera,BEBAS (BEBAS),231,0,Lost deposit
+Henry Shim Chee On,P.175 Papar,Sabah,3,HENRY SHIM,38,Male,Chinese,PAKATAN HARAPAN (PH),9144,0,Lost
+Johnny Bin Sitamin,P.175 Papar,Sabah,4,JOHNNY SITAMIN,55,Male,Bumiputera,BEBAS (BEBAS),335,0,Lost deposit
+Ahmad Bin Hassan,P.175 Papar,Sabah,5,HJ. AHMAD HASSAN,61,Male,Bumiputera,PARTI WARISAN SABAH (WARISAN),10396,0,Lost
+Armizan Bin Mohd Ali,P.175 Papar,Sabah,6,DATUK ARMIZAN BIN MOHD ALI,46,Male,Bumiputera,PARTI GABUNGAN RAKYAT SABAH (GRS),22620,1,Won
+Mohamad Bin Alamin,P.176 Kimanis,Sabah,1,MOHAMAD BIN ALAMIN,50,Male,Bumiputera,BARISAN NASIONAL (BN),13004,1,Won
+Daud Bin Yusof,P.176 Kimanis,Sabah,2,DAUD BIN YUSOF,61,Male,Bumiputera,PARTI WARISAN SABAH (WARISAN),9967,0,Lost
+Yusop Bin Osman @ Othman,P.176 Kimanis,Sabah,3,YUSOP BIN OSMAN,63,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),153,0,Lost deposit
+Rowindy Lawrence Odong,P.176 Kimanis,Sabah,4,ROWINDY LAWRENCE ODONG,40,Female,Bumiputera,PAKATAN HARAPAN (PH),3931,0,Lost
+Amat Bin Md Yusof,P.176 Kimanis,Sabah,5,AMAT BIN MD YUSOF,62,Male,Bumiputera,PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM),4013,0,Lost
+Dikin Bin Musah,P.177 Beaufort,Sabah,1,DIKIN BIN MUSAH,66,Male,Bumiputera,PAKATAN HARAPAN (PH),7835,0,Lost
+Matlani Bin Sabli,P.177 Beaufort,Sabah,2,MATLANI BIN SABLI,50,Male,Bumiputera,BEBAS (BEBAS),143,0,Lost deposit
+Johan @ Christopher Bin O T Ghani,P.177 Beaufort,Sabah,3,JOHAN @ CHRISTOPHER BIN O T GHANI,69,Male,Bumiputera,BEBAS (BEBAS),546,0,Lost deposit
+Masri Bin Adul,P.177 Beaufort,Sabah,4,MASRI BIN ADUL,60,Male,Bumiputera,PARTI WARISAN SABAH (WARISAN),2152,0,Lost deposit
+Siti Aminah Binti Aching,P.177 Beaufort,Sabah,5,DATUK SITI AMINAH BINTI ACHING,60,Female,Bumiputera,BARISAN NASIONAL (BN),10570,1,Won
+Johair Binti Mat Lani,P.177 Beaufort,Sabah,6,DATUK HJH.JOHAIR MAT LANI,57,Female,Bumiputera,PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM),8052,0,Lost
+Matbali Bin Musah,P.178 Sipitang,Sabah,1,DATUK MATBALI BIN MUSAH,53,Male,Bumiputera,PARTI GABUNGAN RAKYAT SABAH (GRS),14459,1,Won
+Lahirul Bin Latigu,P.178 Sipitang,Sabah,2,LAHIRUL,46,Male,Bumiputera,PAKATAN HARAPAN (PH),4834,0,Lost
+Adnan Bin Puteh,P.178 Sipitang,Sabah,3,ADNAN BIN OKK PUTEH,64,Male,Bumiputera,PARTI WARISAN SABAH (WARISAN),9768,0,Lost
+Apirin Bin Jahalan @ Taufik Sham,P.179 Ranau,Sabah,1,TAUFIK DAHLAN,67,Male,Bumiputera,PAKATAN HARAPAN (PH),11514,0,Lost
+Jonathan Bin Yasin,P.179 Ranau,Sabah,2,JONATHAN YASIN,55,Male,Bumiputera,PARTI GABUNGAN RAKYAT SABAH (GRS),22606,1,Won
+Azizul Julirin,P.179 Ranau,Sabah,3,AZIZUL JULIRIN,34,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),1267,0,Lost deposit
+Markos Siton,P.179 Ranau,Sabah,4,MARKOS SITON,66,Male,Bumiputera,PARTI WARISAN SABAH (WARISAN),2657,0,Lost deposit
+Ewon Bin Ebin,P.179 Ranau,Sabah,5,EWON BIN EBIN,68,Male,Bumiputera,PARTI BERSATU RAKYAT SABAH (PBRS),4254,0,Lost deposit
+Grelydia Gillod,P.180 Keningau,Sabah,1,GRELYDIA GILLOD,32,Female,Bumiputera,PAKATAN HARAPAN (PH),15099,0,Lost
+Rasinin Bin Koutis @ Kautis,P.180 Keningau,Sabah,2,RASININ BIN KOUTIS @ KAUTIS,60,Male,Bumiputera,PARTI WARISAN SABAH (WARISAN),7020,0,Lost
+Gapari Bin Katingan @ Geoffrey Kitingan,P.180 Keningau,Sabah,3,DATUK SERI PANGLIMA DR.JEFFREY G.KITINGAN,75,Male,Bumiputera,PARTI GABUNGAN RAKYAT SABAH (GRS),23155,1,Won
+Jikulin Nointin @ Anastasius,P.180 Keningau,Sabah,4,DATUK JAKE NOINTIN,61,Male,Bumiputera,PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM),9598,0,Lost
+Noorita Binti Sual,P.181 Tenom,Sabah,1,NOORITA SUAL,42,Female,Bumiputera,PAKATAN HARAPAN (PH),8919,0,Lost
+Jamawi Bin Ja'Afar,P.181 Tenom,Sabah,2,JAMAWI BIN JA'AFAR,48,Male,Bumiputera,BARISAN NASIONAL (BN),8625,0,Lost
+Riduan Bin Rubin,P.181 Tenom,Sabah,3,RIDUAN BIN RUBIN,35,Male,Bumiputera,BEBAS (BEBAS),10027,1,Won
+Ukim Bin Buandi,P.181 Tenom,Sabah,4,UKIM BUANDI,65,Male,Bumiputera,PARTI WARISAN SABAH (WARISAN),992,0,Lost deposit
+Peggy Chaw Zhi Ting,P.181 Tenom,Sabah,5,PEGGY CHAW ZHI TING,23,Female,Chinese,BEBAS (BEBAS),86,0,Lost deposit
+Jamani Bin Derimin @ Gampalid,P.182 Pensiangan,Sabah,1,JAMANI BIN DERIMIN,58,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),124,0,Lost deposit
+Siti Noorhasmahwatty Binti Osman,P.182 Pensiangan,Sabah,2,SITI NOORHASMAHWATTY OSMAN,38,Female,Bumiputera,PARTI WARISAN SABAH (WARISAN),1512,0,Lost deposit
+Jekerison Bin Kilan @ Kilam,P.182 Pensiangan,Sabah,3,JEKERISON KILAN,52,Male,Bumiputera,PARTI KESEJAHTERAAN DEMOKRATIK MASYARAKAT (KDM),1640,0,Lost deposit
+Sangkar Bin Rasam,P.182 Pensiangan,Sabah,4,SANGKAR BIN RASAM,60,Male,Bumiputera,PAKATAN HARAPAN (PH),14211,0,Lost
+Arthur Joseph Kurup,P.182 Pensiangan,Sabah,5,DATUK ARTHUR JOSEPH KURUP,40,Male,Bumiputera,BARISAN NASIONAL (BN),19623,1,Won
+Benedict Asmat @ Kolorong,P.183 Beluran,Sabah,1,BENEDICT ASMAT,54,Male,Bumiputera,BARISAN NASIONAL (BN),9709,0,Lost
+Rowiena Binti Rasid,P.183 Beluran,Sabah,2,ROWIENA RASID,35,Female,Bumiputera,PARTI WARISAN SABAH (WARISAN),3707,0,Lost
+Hausing Bin Samsudin @ Sudin,P.183 Beluran,Sabah,3,HAUSING BIN SAMSUDIN @ SUDIN,60,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),155,0,Lost deposit
+Ronald Kiandee,P.183 Beluran,Sabah,4,RONALD KIANDEE,61,Male,Bumiputera,PERIKATAN NASIONAL (PN),11303,1,Won
+Felix Joseph Sitin,P.183 Beluran,Sabah,5,FELIX JOSEPH SAANG,48,Male,Bumiputera,PAKATAN HARAPAN (PH),4460,0,Lost
+Nordin Bin Kaning @ Nordin Bin Khani,P.184 Libaran,Sabah,1,NORDIN BIN KHANI,61,Male,Bumiputera,PARTI PERPADUAN RAKYAT SABAH (PPRS),541,0,Lost deposit
+Peter Jr Naintin,P.184 Libaran,Sabah,2,DR PETER JR NAINTIN,44,Male,Chinese,PAKATAN HARAPAN (PH),10351,0,Lost
+Amdan @ Saban Bin Tumpong,P.184 Libaran,Sabah,3,HJ. AMDAN BIN TUMPONG,61,Male,Bumiputera,BEBAS (BEBAS),659,0,Lost deposit
+Jeffri Bin Pudang,P.184 Libaran,Sabah,4,JEFFRI @ AMAT PUDANG,53,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),826,0,Lost deposit
+Sh Bokrata Bin Sh Hassan,P.184 Libaran,Sabah,5,SHARIF BOKRATA,53,Male,Bumiputera,PARTI WARISAN SABAH (WARISAN),9185,0,Lost
+Suhaimi Bin Nasir,P.184 Libaran,Sabah,6,SUHAIMI BIN NASIR,54,Male,Bumiputera,BARISAN NASIONAL (BN),22969,1,Won
+Liau Fui Fui,P.185 Batu Sapi,Sabah,1,LIAU FUI FUI,39,Female,Bumiputera,PAKATAN HARAPAN (PH),7331,0,Lost
+Othman Bin Ahmad,P.185 Batu Sapi,Sabah,2,IR. HJ. OTHMAN HJ. AHMAD,64,Male,Bumiputera,BEBAS (BEBAS),160,0,Lost deposit
+Narseso P Juanico,P.185 Batu Sapi,Sabah,3,BONI YUSUF JUANICO ABDULLAH,60,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),176,0,Lost deposit
+Alias Bin Sani,P.185 Batu Sapi,Sabah,4,ALIAS BIN SANI,53,Male,Bumiputera,PARTI WARISAN SABAH (WARISAN),7218,0,Lost
+Khairul Firdaus Bin Akbar Khan,P.185 Batu Sapi,Sabah,5,KHAIRUL FIRDAUS AKBAR KHAN,39,Male,Bumiputera,PARTI GABUNGAN RAKYAT SABAH (GRS),12152,1,Won
+Hu Chang Lik @ Hii Chang Lik,P.186 Sandakan,Sabah,1,PETER HII,70,Male,Chinese,BEBAS (BEBAS),2342,0,Lost deposit
+Lokeman Hazli Bin Azali,P.186 Sandakan,Sabah,2,SYEIKH LOKEMAN,54,Male,Bumiputera,BEBAS (BEBAS),962,0,Lost deposit
+Lau Chi Keong @ Thomas Lau,P.186 Sandakan,Sabah,3,LAU CHI KEONG @ THOMAS LAU,73,Male,Chinese,PARTI GABUNGAN RAKYAT SABAH (GRS),5054,0,Lost
+Vivian Wong Shir Yee,P.186 Sandakan,Sabah,4,VIVIAN WONG SHIR YEE,33,Female,Chinese,PAKATAN HARAPAN (PH),16673,1,Won
+Thien Ching Qiang,P.186 Sandakan,Sabah,5,ALEX THIEN,31,Male,Chinese,PARTI WARISAN SABAH (WARISAN),5642,0,Lost
+Lita Tan Binti Abdullah,P.186 Sandakan,Sabah,6,HAJJAH LITA TAN BINTI ABDULLAH,NULL,Female,Bumiputera,BEBAS (BEBAS),246,0,Lost deposit
+Mazliwati Binti Abdul Malek,P.187 Kinabatangan,Sabah,1,MAZLIWATI BINTI ABDUL MALEK,49,Female,Bumiputera,PARTI WARISAN SABAH (WARISAN),12512,0,Lost
+Moktar Bin Radin,P.187 Kinabatangan,Sabah,2,BUNG MOKTAR BIN RADIN,63,Male,Bumiputera,BARISAN NASIONAL (BN),16842,1,Won
+Sia Yu Hock,P.188 Lahad Datu,Sabah,1,SIA YU HOCK,34,Male,Chinese,PAKATAN HARAPAN (PH),8289,0,Lost
+Mohammad Yusof Bin Bin Apdal,P.188 Lahad Datu,Sabah,2,DATO' HJ MOHAMMAD YUSOF BIN APDAL,62,Male,Bumiputera,PARTI WARISAN SABAH (WARISAN),27116,1,Won
+Maizatul Akmam Bt. Hj.Alawi @ Ad.Badawi,P.188 Lahad Datu,Sabah,3,MAIZATUL AKMAM BT HJ ALAWI,51,Female,Bumiputera,BARISAN NASIONAL (BN),22740,0,Lost
+Arastam Bin Pandorog,P.189 Semporna,Sabah,1,ARASTAM BIN PANDOROG,60,Male,Bumiputera,PAKATAN HARAPAN (PH),1848,0,Lost deposit
+Mohd Shafie Bin Apdal,P.189 Semporna,Sabah,2,MOHD SHAFIE APDAL,65,Male,Bumiputera,PARTI WARISAN SABAH (WARISAN),28702,1,Won
+Nixon Bin Abdul Habi,P.189 Semporna,Sabah,3,NIXON BIN ABDUL HABI,53,Male,Bumiputera,PARTI GABUNGAN RAKYAT SABAH (GRS),7892,0,Lost
+Ab Rajik @ Ab Rajak Bin Ab Hamid,P.189 Semporna,Sabah,4,AB RAJIK AB HAMID,60,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),467,0,Lost deposit
+Chen Ket Chuin,P.190 Tawau,Sabah,1,KC CHEN KET CHUIN,28,Male,Chinese,PARTI WARISAN SABAH (WARISAN),11263,0,Lost
+Chin Chee Syn,P.190 Tawau,Sabah,2,DATO' CHIN CHEE SYN,51,Male,Chinese,BEBAS (BEBAS),651,0,Lost deposit
+Mohd Salleh Bin Bacho,P.190 Tawau,Sabah,3,MOHD SALLEH BACHO,39,Male,Bumiputera,BEBAS (BEBAS),1776,0,Lost deposit
+Liew Chin Jin,P.190 Tawau,Sabah,4,CHRISTINA LIEW,70,Female,Chinese,PAKATAN HARAPAN (PH),16065,0,Lost
+Herman Bin Amdas,P.190 Tawau,Sabah,5,HERMAN BIN AMDAS,35,Male,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),1067,0,Lost deposit
+Lo Su Fui,P.190 Tawau,Sabah,6,LO SU FUI,41,Male,Chinese,PARTI GABUNGAN RAKYAT SABAH (GRS),19865,1,Won
+Nur Aini Binti Abdul Rahman,P.191 Kalabakan,Sabah,1,DR NUR AINI ABD RAHMAN (MD),48,Female,Bumiputera,PARTI PEJUANG TANAHAIR (PEJUANG),1681,0,Lost deposit
+Andi Muhammad Suryady Bin Bandy,P.191 Kalabakan,Sabah,2,ANDI MUHAMMAD SURYADY BIN BANDY,41,Male,Bumiputera,BARISAN NASIONAL (BN),23855,1,Won
+Ma'Mun Bin Sulaiman,P.191 Kalabakan,Sabah,3,MA'MUN BIN SULAIMAN,57,Male,Bumiputera,PARTI WARISAN SABAH (WARISAN),14755,0,Lost
+Muhamad Dhiauddin Bin Hassan,P.191 Kalabakan,Sabah,4,DATO MUHAMAD,42,Male,Bumiputera,BEBAS (BEBAS),341,0,Lost deposit
+Noraini Abd Ghapur,P.191 Kalabakan,Sabah,5,NORAINI ABD GHAPUR,45,Female,Bumiputera,PAKATAN HARAPAN (PH),9398,0,Lost
+Sim Min Leong,P.192 Mas Gading,Sarawak,1,RYAN SIM MIN LEONG,43,Male,Chinese,PARTI BUMI KENYALANG (PBK),2311,0,Lost deposit
+Lidang Anak Disen,P.192 Mas Gading,Sarawak,2,LIDANG DISEN,47,Male,Bumiputera,GABUNGAN PARTI SARAWAK (GPS),11794,0,Lost
+Mordi Anak Bimol,P.192 Mas Gading,Sarawak,3,MORDI ANAK BIMOL,37,Male,Bumiputera,PARTI TINDAKAN DEMOKRATIK (DAP),17274,1,Won
+Nancy Binti Shukri,P.193 Santubong,Sarawak,1,NANCY SHUKRI,61,Female,Bumiputera,GABUNGAN PARTI SARAWAK (GPS),43739,1,Won
+Affendi Bin Jeman,P.193 Santubong,Sarawak,2,AFFENDI BIN JEMAN,59,Male,Bumiputera,BEBAS (BEBAS),3012,0,Lost deposit
+Mohamad Zen Bin Peli,P.193 Santubong,Sarawak,3,MOHAMAD ZEN PELI,51,Male,Bumiputera,PAKATAN HARAPAN (PH),5058,0,Lost deposit
+Fadillah Bin Yusof,P.194 Petra Jaya,Sarawak,1,FADILLAH BIN YUSOF,60,Male,Bumiputera,GABUNGAN PARTI SARAWAK (GPS),54745,1,Won
+Sopian Bin Julaihi,P.194 Petra Jaya,Sarawak,2,SOPIAN JULAIHI,54,Male,Bumiputera,PAKATAN HARAPAN (PH),13382,0,Lost
+Othman Bin Abdillah,P.194 Petra Jaya,Sarawak,3,OTHMAN BIN ABDILLAH,66,Male,Bumiputera,PARTI SEDAR RAKYAT SARAWAK (SEDAR),1036,0,Lost deposit
+Tay Tze Kok,P.195 Bandar Kuching,Sarawak,1,TAY TZE KOK,44,Male,Chinese,GABUNGAN PARTI SARAWAK (GPS),16462,0,Lost
+Voon Lee Shan,P.195 Bandar Kuching,Sarawak,2,VOON LEE SHAN,67,Male,Chinese,PARTI SARAWAK BERSATU (PSB),1760,0,Lost deposit
+Kelvin Yii Lee Wuen,P.195 Bandar Kuching,Sarawak,3,KELVIN YII LEE WUEN,36,Male,Chinese,PARTI TINDAKAN DEMOKRATIK (DAP),45353,1,Won
+Chong Chieng Jen,P.196 Stampin,Sarawak,1,CHONG CHIENG JEN,51,Male,Chinese,PARTI TINDAKAN DEMOKRATIK (DAP),39310,1,Won
+Lo Khere Chiang,P.196 Stampin,Sarawak,2,LO KHERE CHIANG,62,Male,Chinese,GABUNGAN PARTI SARAWAK (GPS),32152,0,Lost
+Lue Cheng Hing,P.196 Stampin,Sarawak,3,LUE CHENG HING,58,Male,Chinese,PARTI SARAWAK BERSATU (PSB),2291,0,Lost deposit
+Rubiah Binti Wang,P.197 Kota Samarahan,Sarawak,1,DATUK HJH RUBIAH BINTI WANG,54,Female,Bumiputera,GABUNGAN PARTI SARAWAK (GPS),42278,1,Won
+Abang Abdul Halil Bin Abang Naili,P.197 Kota Samarahan,Sarawak,2,ABANG HALIL,62,Male,Bumiputera,PAKATAN HARAPAN (PH),12833,0,Lost
+Willie Anak Mongin,P.198 Puncak Borneo,Sarawak,1,WILLIE ANAK MONGIN,47,Male,Bumiputera,GABUNGAN PARTI SARAWAK (GPS),29457,1,Won
+Diog Anak Dios,P.198 Puncak Borneo,Sarawak,2,DIOG ANAK DIOS,55,Male,Bumiputera,PAKATAN HARAPAN (PH),16119,0,Lost
+Iana Anak Akam,P.198 Puncak Borneo,Sarawak,3,IANA ANAK AKAM,47,Female,Bumiputera,PARTI SARAWAK BERSATU (PSB),5578,0,Lost deposit
+Alim Impira,P.199 Serian,Sarawak,1,DR ALIM IMPIRA,62,Male,Bumiputera,BEBAS (BEBAS),6179,0,Lost
+Richard Riot Anak Jaem,P.199 Serian,Sarawak,2,DATO' SRI RICHARD RIOT ANAK JAEM,71,Male,Bumiputera,GABUNGAN PARTI SARAWAK (GPS),22876,1,Won
+Elsiy A/K Tingang,P.199 Serian,Sarawak,3,ELSIY A/K TINGANG,61,Female,Bumiputera,PARTI SARAWAK BERSATU (PSB),5630,0,Lost
+Learry Anak Jabul,P.199 Serian,Sarawak,4,LEARRY ANAK JABUL,42,Male,Bumiputera,PARTI TINDAKAN DEMOKRATIK (DAP),5289,0,Lost
+Rodiyah Binti Sapiee,P.200 Batang Sadong,Sarawak,1,RODIYAH BINTI SAPIEE,44,Female,Bumiputera,GABUNGAN PARTI SARAWAK (GPS),18668,1,Won
+Lahaji Bin Lahiya,P.200 Batang Sadong,Sarawak,2,CIKGU LAHAJI,71,Male,Bumiputera,PAKATAN HARAPAN (PH),3775,0,Lost
+Mohamad Shafizan Haji Kepli,P.201 Batang Lupar,Sarawak,1,MOHAMAD SHAFIZAN,37,Male,Bumiputera,GABUNGAN PARTI SARAWAK (GPS),19627,1,Won
+Wel @ Maxwel Anak Rojis,P.201 Batang Lupar,Sarawak,2,WEL @ MAXWEL ROJIS,70,Male,Bumiputera,PAKATAN HARAPAN (PH),2768,0,Lost deposit
+Hamdan Bin Sani,P.201 Batang Lupar,Sarawak,3,HAMDAN SANI,35,Male,Bumiputera,PERIKATAN NASIONAL (PN),5164,0,Lost
+Doris Sophia Anak Brodi,P.202 Aman,Sarawak,1,DORIS SOPHIA ANAK BRODI,62,Female,Bumiputera,GABUNGAN PARTI SARAWAK (GPS),14131,1,Won
+Walsin @ Wilson Anak Entabang,P.202 Aman,Sarawak,2,WILSON ANAK ENTABANG,59,Male,Bumiputera,PARTI SARAWAK BERSATU (PSB),10092,0,Lost
+Masir Anak Kujat,P.202 Aman,Sarawak,3,MASIR ANAK KUJAT,68,Male,Bumiputera,BEBAS (BEBAS),5673,0,Lost
+Tay Wei Wei,P.202 Aman,Sarawak,4,NAGA LIBAU @ TAY,42,Female,Chinese,PAKATAN HARAPAN (PH),2021,0,Lost deposit
+Tambat @ Jugah Ak Muyang,P.203 Lubok Antu,Sarawak,1,JUGAH MUYANG,58,Male,Bumiputera,PERIKATAN NASIONAL (PN),5360,0,Lost
+Johnichal Rayong Anak Ngipa,P.203 Lubok Antu,Sarawak,2,JOHNICHAL RAYONG NGIPA,60,Male,Bumiputera,PARTI SARAWAK BERSATU (PSB),6544,0,Lost
+Roy Angau Anak Gingkoi,P.203 Lubok Antu,Sarawak,3,ROY ANGAU ANAK GINGKOI,43,Male,Bumiputera,GABUNGAN PARTI SARAWAK (GPS),6644,1,Won
+Langga Anak Lias,P.203 Lubok Antu,Sarawak,4,LANGGA LIAS,61,Male,Bumiputera,PAKATAN HARAPAN (PH),746,0,Lost deposit
+Patrick Bin Kamis,P.204 Betong,Sarawak,1,PATRICK KAMIS @ HJ KAMENG,58,Male,Bumiputera,PAKATAN HARAPAN (PH),5177,0,Lost
+Hasbie Bin Satar,P.204 Betong,Sarawak,2,HASBIE BIN SATAR,49,Male,Bumiputera,BEBAS (BEBAS),5057,0,Lost
+Richard Rapu @ Aman Anak Begri,P.204 Betong,Sarawak,3,DR. RICHARD RAPU,58,Male,Bumiputera,GABUNGAN PARTI SARAWAK (GPS),16479,1,Won
+Giendam Anak Jonathan Tait,P.205 Saratok,Sarawak,1,GIENDAM JONATHAN TAIT,49,Male,Bumiputera,GABUNGAN PARTI SARAWAK (GPS),10397,0,Lost
+Ali Anak Biju,P.205 Saratok,Sarawak,2,DATUK ALI BIJU,54,Male,Bumiputera,PERIKATAN NASIONAL (PN),19223,1,Won
+Ibil Jaya,P.205 Saratok,Sarawak,3,IBIL JAYA,61,Male,Bumiputera,PAKATAN HARAPAN (PH),1221,0,Lost deposit
+Yusuf Bin Abd Wahab,P.206 Tanjong Manis,Sarawak,1,IR. YUSUF ABD WAHAB,58,Male,Bumiputera,GABUNGAN PARTI SARAWAK (GPS),16474,1,Won
+Zainab Binti Suhaili,P.206 Tanjong Manis,Sarawak,2,USTAZAH ZAINAB,52,Female,Bumiputera,PAKATAN HARAPAN (PH),2566,0,Lost
+Ahmad Johnie Bin Zawawi,P.207 Igan,Sarawak,1,AHMAD JOHNIE BIN ZAWAWI,60,Male,Bumiputera,GABUNGAN PARTI SARAWAK (GPS),15824,1,Won
+Andri Zulkarnaen Bin Hamden,P.207 Igan,Sarawak,2,HUD ANDRI,50,Male,Bumiputera,PAKATAN HARAPAN (PH),1162,0,Lost deposit
+Huang Tiong Sii,P.208 Sarikei,Sarawak,1,HUANG TIONG SII,53,Male,Chinese,GABUNGAN PARTI SARAWAK (GPS),20080,1,Won
+Roderick Wong Siew Lead,P.208 Sarikei,Sarawak,2,RODERICK WONG SIEW LEAD,32,Male,Chinese,PARTI TINDAKAN DEMOKRATIK (DAP),16383,0,Lost
+Suhana Abdullah,P.209 Julau,Sarawak,1,SUSAN ANAK GEORGE,37,Female,Bumiputera,PARTI BANSA DAYAK SARAWAK (PBDS),335,0,Lost deposit
+Joseph Salang Anak Gandum,P.209 Julau,Sarawak,2,JOSEPH SALANG,72,Male,Bumiputera,GABUNGAN PARTI SARAWAK (GPS),7819,0,Lost
+Larry Soon @ Larry Sng Wei Shien,P.209 Julau,Sarawak,3,LARRY SOON @ LARRY SNG WEI SHIEN,43,Male,Chinese,PARTI BANGSA MALAYSIA (PBM),9159,1,Won
+Elly Lawai Anak Ngalai,P.209 Julau,Sarawak,4,ELLY LAWAI NGALAI,55,Male,Bumiputera,BEBAS (BEBAS),5224,0,Lost
+Mohd Fauzi Abdullah @ Joseph @ Usit A/K Nyambong,P.210 Kanowit,Sarawak,1,JOSEPH NYAMBONG,61,Male,Bumiputera,PAKATAN HARAPAN (PH),7175,0,Lost
+Elli Luhat,P.210 Kanowit,Sarawak,2,DR. ELLI LUHAT,64,Male,Bumiputera,BEBAS (BEBAS),427,0,Lost deposit
+Ago Anak Dagang,P.210 Kanowit,Sarawak,3,AARON AGO ANAK DAGANG,63,Male,Bumiputera,GABUNGAN PARTI SARAWAK (GPS),7411,1,Won
+Chen Nguk Fa,P.210 Kanowit,Sarawak,4,GEORGE CHEN,60,Male,Chinese,BEBAS (BEBAS),741,0,Lost deposit
+Michael Anak Lias,P.210 Kanowit,Sarawak,5,MICHAEL ANAK LIAS,61,Male,Bumiputera,BEBAS (BEBAS),2289,0,Lost
+Wong Tiing Kiong,P.211 Lanang,Sarawak,1,DATO WONG TIING KIONG,60,Male,Chinese,BEBAS (BEBAS),587,0,Lost deposit
+Priscilla Lau,P.211 Lanang,Sarawak,2,PRISCILLA LAU,53,Female,Chinese,PARTI SARAWAK BERSATU (PSB),3663,0,Lost deposit
+Alice Lau Kiong Yieng,P.211 Lanang,Sarawak,3,ALICE LAU KIONG YIENG,41,Female,Chinese,PARTI TINDAKAN DEMOKRATIK (DAP),30120,1,Won
+Wong Ching Yong,P.211 Lanang,Sarawak,4,WONG CHING YONG,53,Male,Chinese,GABUNGAN PARTI SARAWAK (GPS),18576,0,Lost
+Oscar Ling Chai Yew,P.212 Sibu,Sarawak,1,OSCAR LING CHAI YEW,45,Male,Chinese,PARTI TINDAKAN DEMOKRATIK (DAP),31287,1,Won
+Clarence Ting Ing Horh@ Ting Ing Ho,P.212 Sibu,Sarawak,2,CLARENCE TING ING HORH,63,Male,Bumiputera,GABUNGAN PARTI SARAWAK (GPS),23527,0,Lost
+Wong Soon Koh,P.212 Sibu,Sarawak,3,WONG SOON KOH,80,Male,Chinese,PARTI SARAWAK BERSATU (PSB),11128,0,Lost
+Hanifah Hajar Taib,P.213 Mukah,Sarawak,1,HANIFAH HAJAR TAIB,50,Female,Bumiputera,GABUNGAN PARTI SARAWAK (GPS),21733,1,Won
+Abdul Jalil Bin Bujang,P.213 Mukah,Sarawak,2,ABDUL JALIL,63,Male,Bumiputera,PAKATAN HARAPAN (PH),6047,0,Lost
+Umpang Anak Sabang,P.214 Selangau,Sarawak,1,UMPANG ANAK SABANG,57,Male,Bumiputera,PAKATAN HARAPAN (PH),11092,0,Lost
+Edwin Anak Banta,P.214 Selangau,Sarawak,2,EDWIN ANAK BANTA,57,Male,Bumiputera,GABUNGAN PARTI SARAWAK (GPS),16078,1,Won
+Henry Anak Joseph,P.214 Selangau,Sarawak,3,HENRY JOSEPH USAU,62,Male,Bumiputera,BEBAS (BEBAS),1626,0,Lost deposit
+Alexander Nanta Linggi,P.215 Kapit,Sarawak,1,ALEXANDER NANTA LINGGI,64,Male,Bumiputera,GABUNGAN PARTI SARAWAK (GPS),16522,1,Won
+Khusyairy Pangkas Abdullah,P.215 Kapit,Sarawak,2,PANGKAS AK. UNGGANG,61,Male,Bumiputera,PAKATAN HARAPAN (PH),4120,0,Lost
+Robert Saweng,P.215 Kapit,Sarawak,3,ROBERT SAWENG,52,Male,Bumiputera,PARTI BANSA DAYAK SARAWAK (PBDS),1357,0,Lost deposit
+Abun Sui Anyit,P.216 Hulu Rajang,Sarawak,1,ABUN SUI ANYIT,49,Male,Bumiputera,PAKATAN HARAPAN (PH),7951,0,Lost
+Ugak Anak Kumbong,P.216 Hulu Rajang,Sarawak,2,UGAK ANAK KUMBONG,60,Male,Bumiputera,GABUNGAN PARTI SARAWAK (GPS),15456,1,Won
+Duke Anak Janteng,P.217 Bintulu,Sarawak,1,DUKE ANAK JANTENG,51,Male,Bumiputera,PERIKATAN NASIONAL (PN),5650,0,Lost deposit
+Tiong King Sing,P.217 Bintulu,Sarawak,2,DATO SRI TIONG KING SING,61,Male,Chinese,GABUNGAN PARTI SARAWAK (GPS),43455,1,Won
+Chiew Chan Yew,P.217 Bintulu,Sarawak,3,CHIEW CHAN YEW,35,Male,Chinese,PARTI TINDAKAN DEMOKRATIK (DAP),21287,0,Lost
+Lukanisman Bin Awang Sauni,P.218 Sibuti,Sarawak,1,LUKANISMAN BIN AWANG SAUNI,40,Male,Bumiputera,GABUNGAN PARTI SARAWAK (GPS),22150,1,Won
+Zolhaidah Binti Suboh,P.218 Sibuti,Sarawak,2,ZULHAIDAH SUBOH,49,Female,Bumiputera,PAKATAN HARAPAN (PH),10405,0,Lost
+Bobby Anak William,P.218 Sibuti,Sarawak,3,BOBBY ANAK WILLIAM,55,Male,Bumiputera,PARTI BANSA DAYAK SARAWAK (PBDS),1361,0,Lost deposit
+Jeffery Phang Siaw Foong,P.219 Miri,Sarawak,1,JEFFERY PHANG,48,Male,Chinese,GABUNGAN PARTI SARAWAK (GPS),33390,0,Lost
+Lawrence Lai Yew Son,P.219 Miri,Sarawak,2,LAWRENCE LAI,62,Male,Chinese,PARTI SARAWAK BERSATU (PSB),5209,0,Lost deposit
+Chiew Choon Man,P.219 Miri,Sarawak,3,CHIEW CHOON MAN,31,Male,Chinese,PAKATAN HARAPAN (PH),39549,1,Won
+Anyi Ngau,P.220 Baram,Sarawak,1,ANYI NGAU,64,Male,Bumiputera,GABUNGAN PARTI SARAWAK (GPS),"13,899",1,Win
+Roland Engan,P.220 Baram,Sarawak,2,ROLAND ENGAN,50,Male,Bumiputera,PAKATAN HARAPAN (PH),"11,060",0,Lost
+Wilfred Entika Anak Rebai,P.220 Baram,Sarawak,3,WILFREDENTIKA,64,Male,Bumiputera,BEBAS (BEBAS),324,0,Unknown
+Racha Balang,P.221 Limbang,Sarawak,1,RACHA BALANG,56,Male,Bumiputera,PAKATAN HARAPAN (PH),4899,0,Lost
+Hasbi Bin Habibollah,P.221 Limbang,Sarawak,2,HASBI BIN HABIBOLLAH,59,Male,Bumiputera,GABUNGAN PARTI SARAWAK (GPS),14897,1,Won
+Japar Bin Suyut,P.222 Lawas,Sarawak,1,HJ JAPAR BIN HJ SUYUT,61,Male,Bumiputera,PAKATAN HARAPAN (PH),1163,0,Lost deposit
+Baru Bian,P.222 Lawas,Sarawak,2,BARU BIAN,64,Male,Bumiputera,PARTI SARAWAK BERSATU (PSB),5684,0,Lost
+Henry Sum Agong,P.222 Lawas,Sarawak,3,HENRY SUM AGONG,76,Male,Bumiputera,GABUNGAN PARTI SARAWAK (GPS),11361,1,Won
